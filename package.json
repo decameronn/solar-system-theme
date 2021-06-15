@@ -1,0 +1,21 @@
+{
+    "name": "solar-system-theme",
+    "displayName": "Solar System Theme",
+    "description": "The marvelous Solar System imagined for VS Code - Choose your planet!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Solar System Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Solar System Theme-color-theme.json"
+            }
+        ]
+    }
+}
