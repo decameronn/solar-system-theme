@@ -3,6 +3,10 @@
     "displayName": "Solar System Theme",
     "description": "The marvelous Solar System imagined for VS Code - Choose your planet!",
     "version": "0.0.1",
+    "author": "Decameron",
+    "publisher": "decameron",
+    "icon": "images/icon.png",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.57.0"
     },
@@ -14,8 +18,19 @@
             {
                 "label": "Solar System Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Solar System Theme-color-theme.json"
+                "path": "./themes/solar-sytem-theme.json"
             }
         ]
+    },
+    "keywords": [
+        "solar system",
+        "jupiter",
+        "theme",
+        "decameron",
+        "dark"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/decameronn/solar-system-theme/"
     }
 }
