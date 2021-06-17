@@ -115,7 +115,7 @@
 		"editor.findRangeHighlightBackground": "#3a3d4166",
 		"editor.focusedStackFrameHighlightBackground": "#7abd7a4d",
 		"editor.foldBackground": "#264f784d",
-		"editor.foreground": "#d4d4d4",
+		"editor.foreground": "#DFC9B1",
 		"editor.hoverHighlightBackground": "#264f7840",
 		"editor.inactiveSelectionBackground": "#3a3d41",
 		"editor.inlineValuesBackground": "#ffc80033",
@@ -482,7 +482,7 @@
 				"keyword.operator.minus.exponent"
 			],
 			"settings": {
-				"foreground": "#B5CEA8"
+				"foreground": "#B5CEA8" /* B5CEA8 */
 			}
 		},
 		{
