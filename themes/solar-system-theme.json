@@ -368,7 +368,7 @@
 		"sideBarTitle.foreground": "#bbbbbb",
 
 		// Statusbar
-		"statusBar.background": "#1d3041",
+		"statusBar.background": "#1d3041",	/* 1d3041 */
 		"statusBar.debuggingBackground": "#cc6633",
 		"statusBar.debuggingForeground": "#ffffff",
 		"statusBar.foreground": "#ffffff",
@@ -413,7 +413,7 @@
 		"textPreformat.foreground": "#d7ba7d",
 		"textSeparator.foreground": "#ffffff2e",
 
-		"titleBar.activeBackground": "#1d3041",
+		"titleBar.activeBackground": "#1d3041",	/* 1d3041 */
 		"titleBar.activeForeground": "#cccccc",
 		"titleBar.inactiveBackground": "#1d304199",
 		"titleBar.inactiveForeground": "#cccccc99",
@@ -482,7 +482,7 @@
 				"keyword.operator.minus.exponent"
 			],
 			"settings": {
-				"foreground": "#B5CEA8" /* B5CEA8 */
+				"foreground": "#AD3A21" /* B5CEA8 */
 			}
 		},
 		{
@@ -616,7 +616,7 @@
 		{
 			"scope": "meta.preprocessor.numeric",
 			"settings": {
-				"foreground": "#B5CEA8"
+				"foreground": "#AD3A21" /* B5CEA8 */
 			}
 		},
 		{
@@ -748,7 +748,7 @@
 		{
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#B5CEA8"
+				"foreground": "#AD3A21" /* B5CEA8 */
 			}
 		},
 		{
