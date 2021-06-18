@@ -217,11 +217,11 @@
 		"gitDecoration.deletedResourceForeground": "#c74e39",
 		"gitDecoration.ignoredResourceForeground": "#8c8c8c",
 		"gitDecoration.modifiedResourceForeground": "#e2c08d",
-		"gitDecoration.renamedResourceForeground": "#73c991",
+		"gitDecoration.renamedResourceForeground": "#F4B140",	/* F4B140 - untracked modified files */
 		"gitDecoration.stageDeletedResourceForeground": "#c74e39",
 		"gitDecoration.stageModifiedResourceForeground": "#e2c08d",
 		"gitDecoration.submoduleResourceForeground": "#8db9e2",
-		"gitDecoration.untrackedResourceForeground": "#73c991",
+		"gitDecoration.untrackedResourceForeground": "#F4B140",		/* F4B140 */
 
 		// Icon
 		"icon.foreground": "#c5c5c5",
@@ -713,7 +713,7 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#CEB797"
+				"foreground": "#f0dbbe" /* CEB797 */
 			}
 		},
 		{
@@ -725,7 +725,7 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#CEB797" /* D4D4D4 */
 			}
 		},
 		{
