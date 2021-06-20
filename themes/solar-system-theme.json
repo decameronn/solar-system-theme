@@ -264,8 +264,8 @@
 		"listFilterWidget.outline": "#00000000",
 
 		// Menu
-		"menu.background": "#252526",
-		"menu.foreground": "#cccccc",
+		"menu.background": "#1d3041", /* 252526 */
+		"menu.foreground": "#ddcfbf", /* cccccc */
 		"menu.selectionBackground": "#094771",
 		"menu.selectionForeground": "#ffffff",
 		"menu.separatorBackground": "#bbbbbb",
@@ -330,8 +330,9 @@
 		"problemsWarningIcon.foreground": "#cca700",
 		"progressBar.background": "#0e70c0",
 
-		"quickInput.background": "#252526",
-		"quickInput.foreground": "#cccccc",
+		// Quick input
+		"quickInput.background": "#1d3041", /* 252526 */
+		"quickInput.foreground": "#ddcfbf", /* cccccc */
 		"quickInputList.focusBackground": "#094771",
 		"quickInputList.focusForeground": "#ffffff",
 		"quickInputTitle.background": "#ffffff1b",
