@@ -453,7 +453,7 @@
 				"foreground": "#82acce",
 			}
 		},
-/* 		{
+		{
 			"scope": [
 				"constant",
 				"constant.character",
@@ -468,9 +468,8 @@
 				"constant.rgb-value"
 			],
 			"settings": {
-				"foreground": "#ff0000",
-				"fontStyle": "bold"
+				"foreground": "#913000",
 			}
-		} */
+		}
 	]
 }
