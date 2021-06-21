@@ -438,10 +438,39 @@
 	},
 	"tokenColors":[
 		{
-			"scope":"comment",
+			"scope": [
+				"comment",
+				"comment.block",
+				"comment.line"
+			],
 			"settings": {
 				"foreground": "#5d6b88"
 			}
-		}
+		},
+		{
+			"scope": "comment.block.documentation",
+			"settings": {
+				"foreground": "#82acce",
+			}
+		},
+/* 		{
+			"scope": [
+				"constant",
+				"constant.character",
+				"constant.character.escape",
+				"constant.numeric",
+				"constant.numeric.float",
+				"constant.numeric.hex",
+				"constant.numeric.integer",
+				"constant.numeric.octal",
+				"constant.other",
+				"constant.regexp",
+				"constant.rgb-value"
+			],
+			"settings": {
+				"foreground": "#ff0000",
+				"fontStyle": "bold"
+			}
+		} */
 	]
 }
