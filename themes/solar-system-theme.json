@@ -436,5 +436,12 @@
 		"widget.shadow": "#0000005c",
 
 	},
-
+	"tokenColors":[
+		{
+			"scope":"comment",
+			"settings": {
+				"foreground": "#5d6b88"
+			}
+		}
+	]
 }
