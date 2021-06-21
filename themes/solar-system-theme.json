@@ -438,6 +438,7 @@
 	},
 	"tokenColors":[
 		{
+			// Comment
 			"scope": [
 				"comment",
 				"comment.block",
@@ -448,12 +449,14 @@
 			}
 		},
 		{
+			// Documentation comment
 			"scope": "comment.block.documentation",
 			"settings": {
 				"foreground": "#82acce",
 			}
 		},
 		{
+			// Constant
 			"scope": [
 				"constant",
 				"constant.character",
@@ -469,6 +472,33 @@
 			],
 			"settings": {
 				"foreground": "#913000",
+			}
+		},
+		{
+			/*
+				Entity:
+					- preprocessor defines
+					- functions (& methods)
+					- classes
+					- structs
+					- css + html tags & attributes
+			*/
+			"scope": [
+				"entity",
+				"entity.name",
+				"entity.name.class",
+				"entity.name.function",
+				"entity.name.method",
+				"entity.name.section",
+				"entity.name.selector",
+				"entity.name.tag",
+				"entity.name.type",
+				"entity.other",
+				"entity.other.attribute-name",
+				"entity.other.inherited-class"
+			],
+			"settings": {
+				"foreground": "#ff0000",
 			}
 		}
 	]
