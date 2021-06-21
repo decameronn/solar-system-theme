@@ -478,7 +478,6 @@
 			/*
 				Entity:
 					- preprocessor defines
-					- functions (& methods)
 					- classes
 					- structs
 					- css + html tags & attributes
@@ -487,8 +486,8 @@
 				"entity",
 				"entity.name",
 				"entity.name.class",
-				"entity.name.function",
-				"entity.name.method",
+				/* "entity.name.function",
+				"entity.name.method", */
 				"entity.name.section",
 				"entity.name.selector",
 				"entity.name.tag",
@@ -499,6 +498,16 @@
 			],
 			"settings": {
 				"foreground": "#ff0000",
+			}
+		},
+		{
+			// Function
+			"scope": [
+				"entity.name.function",
+				"entity.name.method"
+			],
+			"settings": {
+				"foreground": "#f4b140",
 			}
 		}
 	]
