@@ -108,8 +108,8 @@
 		"dropdown.foreground": "#82acce",
 
 		// Editor
-		"editor.background": "#1c2029",
-		"editor.foreground": "#ddcfbf", /* DFC9B1 */
+		"editor.background": "#1c2029",	/* 1c2029 */
+		"editor.foreground": "#ddcfbf", /* DFC9B1 ddcfbf*/
 		"editor.findMatchBackground": "#515c6a",
 		"editor.findMatchHighlightBackground": "#ea5c0055",
 		"editor.findRangeHighlightBackground": "#3a3d4166",
@@ -486,18 +486,13 @@
 				"entity",
 				"entity.name",
 				"entity.name.class",
-				/* "entity.name.function",
-				"entity.name.method", */
 				"entity.name.section",
 				"entity.name.selector",
-				"entity.name.tag",
-				"entity.name.type",
-				"entity.other",
-				"entity.other.attribute-name",
-				"entity.other.inherited-class"
+				/* "entity.name.tag",
+				"entity.name.type", */
 			],
 			"settings": {
-				"foreground": "#ff0000",
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -507,7 +502,28 @@
 				"entity.name.method"
 			],
 			"settings": {
-				"foreground": "#f4b140",
+				"foreground": "#f4b140"
+			}
+		},
+		{
+			"scope": [
+				"entity.name.tag",
+				"entity.name.type"
+			],
+			"settings": {
+				"foreground": "#FF0000",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			// HTML & CSS attribute + class
+			"scope":[
+				"entity.other",
+				"entity.other.attribute-name",
+				"entity.other.inherited-class"
+			],
+			"settings": {
+				"foreground": "#f5d67b"
 			}
 		}
 	]
