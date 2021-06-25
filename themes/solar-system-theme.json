@@ -2,18 +2,6 @@
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
-		// Establish base colors of Jupiter
-		// "badge.background": "#F5D67B",						// yellow
-		// "badge.foreground": "#F4B140",						// orange
-		// "banner.background": "#AA663B",						// brown
-		// "banner.foreground": "#7E4B2C",						// dark brown
-		// "banner.iconForeground": "#913000",					// storm red
-		// "breadcrumb.activeSelectionForeground": "#C19130",	// orange alt
-		// "breadcrumb.background": "#CEB797",					// light sand
-		// "breadcrumb.focusForeground": "#e0e0e0",
-		// "breadcrumb.foreground": "#cccccc",
-		// "breadcrumbPicker.background": "#252526",
-
 		// Activity bar
 		"activityBar.activeBorder": "#82acce",
 		"activityBar.background": "#1c2029",
@@ -109,7 +97,7 @@
 
 		// Editor
 		"editor.background": "#1c2029",	/* 1c2029 */
-		"editor.foreground": "#ceb797", /* ddcfbf*/
+		"editor.foreground": "#ffecd9", /* ddcfbf ceb797*/
 		"editor.findMatchBackground": "#515c6a",
 		"editor.findMatchHighlightBackground": "#ea5c0055",
 		"editor.findRangeHighlightBackground": "#3a3d4166",
@@ -487,18 +475,11 @@
 			}
 		},
 		{
-			/*
-			Entity:
-				- preprocessor defines
-				- classes
-				- structs
-				- css + html tags & attributes
-			*/
+			//  Entity:
 			"scope": [
 				"entity",
 				"entity.name",
-				"entity.name.class",
-				"entity.name.section",
+				"entity.name.class",	// TODO: what's "class"?
 				"entity.name.selector"
 			],
 			"settings": {
@@ -541,7 +522,30 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#f5d67b"
+				"foreground": "#ceb465"
+			}
+		},
+		{
+			// Latex \section
+			"scope": [
+				"entity.name.section",
+			],
+			"settings": {
+				"foreground": "#ee9a54"
+			}
+		},
+		{
+			"scope": [
+				"keyword",
+				"keyword.control",
+				"keyword.operator",
+				"keyword.operator.arithmetic",
+				"keyword.operator.assignment",
+				"keyword.operator.logical",
+				"keyword.operator.new"
+			],
+			"settings": {
+				"foreground": "#b4612d"
 			}
 		}
 	]
