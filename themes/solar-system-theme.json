@@ -548,6 +548,15 @@
 				"foreground": "#b4612d"
 			}
 		},
-
+		{
+			"scope": [
+				"storage",
+				"storage.modifier",
+				"storage.type"
+			],
+			"settings": {
+				"foreground": "#FF0000"
+			}
+		}
 	]
 }
