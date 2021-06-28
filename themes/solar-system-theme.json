@@ -97,7 +97,7 @@
 
 		// Editor
 		"editor.background": "#1c2029",	/* 1c2029 */
-		"editor.foreground": "#ffecd9", /* ddcfbf ceb797*/
+		"editor.foreground": "#feeecd", /* ddcfbf ceb797 ffecd9*/
 		"editor.findMatchBackground": "#515c6a",
 		"editor.findMatchHighlightBackground": "#ea5c0055",
 		"editor.findRangeHighlightBackground": "#3a3d4166",
@@ -362,10 +362,10 @@
 		"statusBar.debuggingBackground": "#cc6633",
 		"statusBar.debuggingForeground": "#ffffff",
 		"statusBar.foreground": "#ffffff",
-		"statusBar.noFolderBackground": "#68217a",
+		"statusBar.noFolderBackground": "#1d3041",
 		"statusBar.noFolderForeground": "#ffffff",
 		"statusBarItem.activeBackground": "#ffffff2e",
-		"statusBarItem.errorBackground": "#c72e0f",
+		"statusBarItem.errorBackground": "#a33600",
 		"statusBarItem.errorForeground": "#ffffff",
 		"statusBarItem.hoverBackground": "#ffffff1f",
 		"statusBarItem.prominentBackground": "#00000080",
@@ -555,7 +555,8 @@
 				"storage.type"
 			],
 			"settings": {
-				"foreground": "#FF0000"
+				"foreground": "#a33600",
+				"fontStyle": "bold"
 			}
 		}
 	]
