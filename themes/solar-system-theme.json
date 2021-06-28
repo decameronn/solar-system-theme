@@ -528,7 +528,7 @@
 		{
 			// Latex \section
 			"scope": [
-				"entity.name.section",
+				"entity.name.section"
 			],
 			"settings": {
 				"foreground": "#ee9a54"
@@ -537,16 +537,17 @@
 		{
 			"scope": [
 				"keyword",
-				"keyword.control",
+				/* "keyword.control",
 				"keyword.operator",
 				"keyword.operator.arithmetic",
 				"keyword.operator.assignment",
 				"keyword.operator.logical",
-				"keyword.operator.new"
+				"keyword.operator.new" */
 			],
 			"settings": {
 				"foreground": "#b4612d"
 			}
-		}
+		},
+
 	]
 }
