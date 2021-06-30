@@ -560,6 +560,29 @@
 				"foreground": "#a33600",
 				"fontStyle": "bold"
 			}
+		},
+		{
+			"scope": [
+				"markup",
+				"markup.bold",
+				"markup.changed",
+				"markup.deleted",
+				"markup.heading",
+				"markup.inline.raw",
+				"markup.inserted",
+				"markup.list",
+				"markup.list.numbered",
+				"markup.list.unnumbered",
+				"markup.other",
+				"markup.quote",
+				"markup.raw",
+				"markup.underline",
+				"markup.underline.link"
+			],
+			"settings": {
+				"foreground": "#FF0000",
+				"fontStyle": "bold"
+			}
 		}
 	]
 }
