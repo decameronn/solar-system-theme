@@ -561,6 +561,7 @@
 				"fontStyle": "bold"
 			}
 		},
+		// Markup
 		{
 			"scope": [
 				"markup",
@@ -582,6 +583,18 @@
 			"settings": {
 				"foreground": "#FF0000",
 				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope":"markup.bold",
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "markup.italic",
+			"settings": {
+				"fontStyle": "italic"
 			}
 		}
 	]
