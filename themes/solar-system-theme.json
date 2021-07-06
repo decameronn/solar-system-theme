@@ -564,14 +564,13 @@
 		{
 			"scope": [
 				"markup",
-				"markup.bold",
+				
 				"markup.changed",
 				"markup.deleted",
 				"markup.heading",
-				"markup.inline.raw",
-				"markup.inserted",
-				"markup.other",
-				"markup.quote",
+				
+				
+				
 				"markup.raw"
 			],
 			"settings": {
@@ -596,6 +595,30 @@
 			"settings": {
 				"foreground": "#b4612d"
 			}
-		}
+		},
+		{
+			"scope": [
+				"markup.other",
+				"markup.quote"
+			],
+			"settings": {
+				"foreground": "#82acce"
+			}
+		},
+		{
+			"scope": [
+				"markup.inline.raw",
+				"markup.inserted"
+			],
+			"settings": {
+				"foreground": "#0adbb8"
+			}
+		},
+		{
+			"scope": "markup.bold",
+			"settings": {
+				"fontStyle": "bold"
+			}
+		}		
 	]
 }
