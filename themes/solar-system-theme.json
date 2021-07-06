@@ -561,7 +561,6 @@
 				"fontStyle": "bold"
 			}
 		},
-		// Markup
 		{
 			"scope": [
 				"markup",
@@ -571,30 +570,31 @@
 				"markup.heading",
 				"markup.inline.raw",
 				"markup.inserted",
-				"markup.list",
-				"markup.list.numbered",
-				"markup.list.unnumbered",
 				"markup.other",
 				"markup.quote",
-				"markup.raw",
+				"markup.raw"
+			],
+			"settings": {
+				"foreground": "#FF0000",
+			}
+		},
+		{
+			"scope": [
+				"markup.list",
+				"markup.list.numbered",
+				"markup.list.unnumbered"
+			],
+			"settings": {
+				"foreground": "#feeecd"
+			}
+		},
+		{
+			"scope": [
 				"markup.underline",
 				"markup.underline.link"
 			],
 			"settings": {
-				"foreground": "#FF0000",
-				"fontStyle": "bold"
-			}
-		},
-		{
-			"scope":"markup.bold",
-			"settings": {
-				"fontStyle": "bold"
-			}
-		},
-		{
-			"scope": "markup.italic",
-			"settings": {
-				"fontStyle": "italic"
+				"foreground": "#b4612d"
 			}
 		}
 	]
