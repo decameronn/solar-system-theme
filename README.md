@@ -1,6 +1,6 @@
 # Solar System Theme
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://github.com/decameronn/solar-system-theme)
+<!-- [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://github.com/decameronn/solar-system-theme) -->
 
 ## About
 
