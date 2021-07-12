@@ -18,7 +18,7 @@
             {
                 "label": "Solar System Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/solar-sytem-theme.json"
+                "path": "./themes/solar-system-theme.json"
             }
         ]
     },
