@@ -564,13 +564,9 @@
 		{
 			"scope": [
 				"markup",
-				
 				"markup.changed",
 				"markup.deleted",
 				"markup.heading",
-				
-				
-				
 				"markup.raw"
 			],
 			"settings": {
