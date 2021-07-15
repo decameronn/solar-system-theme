@@ -566,7 +566,7 @@
 				"markup",
 				"markup.changed",
 				"markup.deleted",
-				"markup.heading",
+				
 				"markup.raw"
 			],
 			"settings": {
@@ -590,6 +590,12 @@
 			],
 			"settings": {
 				"foreground": "#b4612d"
+			}
+		},
+		{
+			"scope": "markup.heading",
+			"settings": {
+				"foreground": "#ee9a54"
 			}
 		},
 		{
