@@ -652,6 +652,13 @@
 			"settings": {
 				"foreground": "#82acce"
 			}
+		},
+		{
+			/* html-like tags in markdown */
+			"scope": "meta.tag",
+			"settings": {
+				"foreground": "#82acce"
+			}
 		}
 	]
 }
