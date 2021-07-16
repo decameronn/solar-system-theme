@@ -631,11 +631,11 @@
 				"meta.function",
 				"meta.function-call",
 				"meta.preprocessor",
-				"meta.return-type",
-				"meta.selector",
-				"meta.tag",
-				"meta.type",
-				"meta.type.annotation"
+				/* "meta.return-type", */
+				/* "meta.selector", */
+				/* "meta.tag", */
+				/* "meta.type", */
+				/* "meta.type.annotation" */
 			],
 			"settings": {
 				"foreground": "#FF0000"
@@ -656,6 +656,18 @@
 		{
 			/* html-like tags in markdown */
 			"scope": "meta.tag",
+			"settings": {
+				"foreground": "#82acce"
+			}
+		},
+		{
+			"scope": "meta.selector",
+			"settings": {
+				"foreground": "#82acce"
+			}
+		},
+		{
+			"scope": "meta.return-type",
 			"settings": {
 				"foreground": "#82acce"
 			}
