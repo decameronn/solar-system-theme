@@ -640,6 +640,18 @@
 			"settings": {
 				"foreground": "#FF0000"
 			}
-		}		
+		},
+		{
+			"scope": "meta.type.annotation",
+			"settings": {
+				"foreground": "#82acce"
+			}
+		},
+		{
+			"scope": "meta.type",
+			"settings": {
+				"foreground": "#82acce"
+			}
+		}
 	]
 }
