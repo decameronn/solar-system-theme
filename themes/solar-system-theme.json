@@ -621,6 +621,25 @@
 			"settings": {
 				"fontStyle": "bold"
 			}
+		},
+		{
+			"scope": [
+				"meta",
+				"meta.block",
+				"meta.cast",
+				"meta.class",
+				"meta.function",
+				"meta.function-call",
+				"meta.preprocessor",
+				"meta.return-type",
+				"meta.selector",
+				"meta.tag",
+				"meta.type",
+				"meta.type.annotation"
+			],
+			"settings": {
+				"foreground": "#FF0000"
+			}
 		}		
 	]
 }
