@@ -625,12 +625,14 @@
 		{
 			"scope": [
 				"meta",
+				/* START commenting these out for now
 				"meta.block",
 				"meta.cast",
 				"meta.class",
 				"meta.function",
 				"meta.function-call",
 				"meta.preprocessor",
+				END */
 				/* "meta.return-type", */
 				/* "meta.selector", */
 				/* "meta.tag", */
@@ -638,7 +640,7 @@
 				/* "meta.type.annotation" */
 			],
 			"settings": {
-				"foreground": "#FF0000"
+				"foreground": "#feeecd"
 			}
 		},
 		{
