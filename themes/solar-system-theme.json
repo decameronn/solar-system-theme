@@ -501,7 +501,7 @@
 			// Function
 			"scope": [
 				"entity.name.function",
-				"entity.name.method"
+				/* "entity.name.method" */
 			],
 			"settings": {
 				"foreground": "#ca9334"
@@ -638,8 +638,6 @@
 				"meta.block",
 				"meta.cast",
 				"meta.class",
-				"meta.function",
-				"meta.function-call",
 				"meta.preprocessor",
 				END */
 				/* "meta.return-type", */
@@ -650,6 +648,16 @@
 			],
 			"settings": {
 				"foreground": "#feeecd"
+			}
+		},
+		{
+			/* TeX: \begin{}, etc */
+			"scope": [
+				"meta.function",
+				"meta.function-call"
+			],
+			"settings": {
+				"foreground": "#ca9334"
 			}
 		},
 		{
