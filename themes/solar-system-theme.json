@@ -617,6 +617,15 @@
 			}
 		},
 		{
+			"scope": [
+				"markup.list.numbered",
+				"markup.list.unnumbered"
+			],
+			"settings": {
+				"foreground": "#FF0000"
+			}
+		},
+		{
 			"scope": "markup.bold",
 			"settings": {
 				"fontStyle": "bold"
