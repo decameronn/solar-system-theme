@@ -97,7 +97,7 @@
 
 		// Editor
 		"editor.background": "#1c2029",	/* 1c2029 */
-		/* "editor.foreground": "#feeecd", */ /* ddcfbf ceb797 ffecd9*/
+		"editor.foreground": "#feeecd", /* ddcfbf ceb797 ffecd9*/
 		"editor.findMatchBackground": "#515c6a",
 		"editor.findMatchHighlightBackground": "#ea5c0055",
 		"editor.findRangeHighlightBackground": "#3a3d4166",
@@ -613,7 +613,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#0adbb8"
+				"foreground": "#82acce"
 			}
 		},
 		{
