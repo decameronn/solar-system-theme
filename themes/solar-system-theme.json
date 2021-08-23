@@ -501,7 +501,7 @@
 			// Function
 			"scope": [
 				"entity.name.function",
-				/* "entity.name.method" */
+				// "entity.name.method"
 			],
 			"settings": {
 				"foreground": "#ca9334"
@@ -538,13 +538,13 @@
 		},
 		{
 			"scope": [
-				"keyword",
-				/* "keyword.control",
-				"keyword.operator",
-				"keyword.operator.arithmetic",
-				"keyword.operator.assignment",
-				"keyword.operator.logical",
-				"keyword.operator.new" */
+				// "keyword",
+				// "keyword.control",
+				// "keyword.operator",
+				// "keyword.operator.arithmetic",
+				// "keyword.operator.assignment",
+				// "keyword.operator.logical",
+				// "keyword.operator.new"
 			],
 			"settings": {
 				"foreground": "#b4612d"
@@ -573,16 +573,16 @@
 				"foreground": "#a33600",
 			}
 		},
-/* 		{
-			"scope": [
-				"markup.list",
-				"markup.list.numbered",
-				"markup.list.unnumbered"
-			],
-			"settings": {
-				"foreground": "#feeecd"
-			}
-		}, */
+ 		// {
+		// 	"scope": [
+		// 		"markup.list",
+		// 		"markup.list.numbered",
+		// 		"markup.list.unnumbered"
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#feeecd"
+		// 	}
+		// },
 		{
 			"scope": [
 				"markup.underline",
@@ -631,21 +631,21 @@
 				"fontStyle": "bold"
 			}
 		},
-/* 		{
+		{
 			"scope": [
 				"meta",
-				/* START commenting these out for now
-				"meta.block",
-				"meta.cast",
-				"meta.class",
-				"meta.preprocessor",
+				// commenting these out for now
+				// "meta.block",
+				// "meta.cast",
+				// "meta.class",
+				// "meta.preprocessor",
 			],
 			"settings": {
 				"foreground": "#feeecd"
 			}
-		}, */
+		},
 		{
-			/* TeX: \begin{}, etc */
+			// TeX: \begin{}, etc
 			"scope": [
 				"meta.function",
 				"meta.function-call"
@@ -667,7 +667,7 @@
 			}
 		},
 		{
-			/* html-like tags in markdown */
+			// html-like tags in markdown
 			"scope": "meta.tag",
 			"settings": {
 				"foreground": "#82acce"
