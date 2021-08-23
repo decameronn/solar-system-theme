@@ -573,7 +573,7 @@
 				"foreground": "#a33600",
 			}
 		},
-		{
+/* 		{
 			"scope": [
 				"markup.list",
 				"markup.list.numbered",
@@ -582,7 +582,7 @@
 			"settings": {
 				"foreground": "#feeecd"
 			}
-		},
+		}, */
 		{
 			"scope": [
 				"markup.underline",
@@ -631,7 +631,7 @@
 				"fontStyle": "bold"
 			}
 		},
-		{
+/* 		{
 			"scope": [
 				"meta",
 				/* START commenting these out for now
@@ -639,17 +639,11 @@
 				"meta.cast",
 				"meta.class",
 				"meta.preprocessor",
-				END */
-				/* "meta.return-type", */
-				/* "meta.selector", */
-				/* "meta.tag", */
-				/* "meta.type", */
-				/* "meta.type.annotation" */
 			],
 			"settings": {
 				"foreground": "#feeecd"
 			}
-		},
+		}, */
 		{
 			/* TeX: \begin{}, etc */
 			"scope": [
