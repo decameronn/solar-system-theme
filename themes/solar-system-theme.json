@@ -501,10 +501,10 @@
 			// Function
 			"scope": [
 				"entity.name.function",
-				// "entity.name.method"
+				"entity.name.method"
 			],
 			"settings": {
-				"foreground": "#ca9334"
+				"foreground": "#ca9334" // #a22c29
 			}
 		},
 		{
@@ -573,16 +573,16 @@
 				"foreground": "#a33600",
 			}
 		},
- 		// {
-		// 	"scope": [
-		// 		"markup.list",
-		// 		"markup.list.numbered",
-		// 		"markup.list.unnumbered"
-		// 	],
-		// 	"settings": {
-		// 		"foreground": "#feeecd"
-		// 	}
-		// },
+ 		{
+			"scope": [
+				"markup.list",
+				"markup.list.numbered",
+				"markup.list.unnumbered"
+			],
+			"settings": {
+				"foreground": "#feeecd"
+			}
+		},
 		{
 			"scope": [
 				"markup.underline",
@@ -633,17 +633,18 @@
 		},
 		{
 			"scope": [
-				"meta",
 				// some of these are: function parameters,
 				// strings inside function parameters, 
 				// etc
-				"meta.block",
-				"meta.cast",
-				"meta.class",
-				"meta.preprocessor",
+
+				"meta",
+				// "meta.block",
+				// "meta.cast",
+				// "meta.class",
+				// "meta.preprocessor",
 			],
 			"settings": {
-				"foreground": "#feeecd"
+				"foreground": "#feeecd"  // #82acce
 			}
 		},
 		{
