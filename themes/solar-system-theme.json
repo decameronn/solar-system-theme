@@ -634,11 +634,13 @@
 		{
 			"scope": [
 				"meta",
-				// commenting these out for now
-				// "meta.block",
-				// "meta.cast",
-				// "meta.class",
-				// "meta.preprocessor",
+				// some of these are: function parameters,
+				// strings inside function parameters, 
+				// etc
+				"meta.block",
+				"meta.cast",
+				"meta.class",
+				"meta.preprocessor",
 			],
 			"settings": {
 				"foreground": "#feeecd"
