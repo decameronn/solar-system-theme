@@ -563,6 +563,16 @@
 		},
 		{
 			"scope": [
+				"string",
+				// "constant.other.symbol",
+				// "entity.other.inherited-class"
+			],
+			"settings": {
+				"foreground": "#cefdff"  // #809440 - green test
+			}
+		},
+		{
+			"scope": [
 				"markup",
 				"markup.changed",
 				"markup.deleted",
