@@ -568,7 +568,7 @@
 				// "entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#cefdff"  // #809440 - green test
+				"foreground": "#dce9b0"  // #809440 - green test
 			}
 		},
 		{
