@@ -1,7 +1,7 @@
 # Solar System Theme
 📌 This is Work In Progress! 📌  
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://github.com/decameronn/solar-system-theme)
+<!-- [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://github.com/decameronn/solar-system-theme) -->
 
 ## About
 The marvelous Solar System imagined for VS Code - Choose your planet! ✨  
