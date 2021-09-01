@@ -26,4 +26,16 @@ Please note: The theme collection will be updated and you will have to reload VS
 2. [In Work - Saturn]
   
 ## While you wait for new planets to populate the Solar System
-You can read more about the planetary system we all live in on [Wikipedia](https://en.wikipedia.org/wiki/Solar_System)
+You can read more about the planetary system we all live in on [Wikipedia](https://en.wikipedia.org/wiki/Solar_System)  
+  
+## Look & Feel
+### Welcome Screen
+![Welcome Screen](/images/samples/welcome-screen.png)
+### Javascript 
+![JS Code Sample](/images/samples/js.png)
+### Python 
+![Python Code Sample](/images/samples/python.png)
+### HTML 
+![HTML Code Sample](/images/samples/html.png)
+### CSS 
+![CSS Code Sample](/images/samples/js.png)
