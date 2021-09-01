@@ -38,4 +38,4 @@ You can read more about the planetary system we all live in on [Wikipedia](https
 ### HTML 
 ![HTML Code Sample](/images/samples/html.png)
 ### CSS 
-![CSS Code Sample](/images/samples/js.png)
+![CSS Code Sample](/images/samples/css.png)
