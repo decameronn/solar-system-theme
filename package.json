@@ -16,9 +16,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Solar System Theme",
+                "label": "Solar System Theme - Jupiter",
                 "uiTheme": "vs-dark",
-                "path": "./themes/solar-system-theme.json"
+                "path": "./themes/solar-system-jupiter-theme.json"
             }
         ]
     },
