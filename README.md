@@ -8,7 +8,7 @@
 2. Search for **Solar System Theme**.  
 3. Click **Install**.  
 4. Select **Set Color Theme**.  
-5. Code/File ＞ Preferences ＞ Color Theme ＞ FuZZy Theme.  
+5. Code/File ＞ Preferences ＞ Color Theme ＞ Solar System Theme - Jupiter.  
 6. Please rate it if you enjoy it!  
 
 ## About
