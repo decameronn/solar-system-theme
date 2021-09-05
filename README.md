@@ -1,7 +1,7 @@
 # Solar System Theme
 📌 This is Work In Progress! 📌  
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=decameron.solar-system-theme)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://github.com/decameronn/solar-system-theme)
 
 ## Quick Install
 1. Open the extensions sidebar on VS Code with <kbd>Ctrl</kbd>+<kbd>X</kbd> or <kbd>Cmd</kbd>+<kbd>X</kbd>  
