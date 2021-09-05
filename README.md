@@ -1,7 +1,7 @@
 # Solar System Theme
 📌 This is Work In Progress! 📌  
 
-<!-- [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](marketplace address for the theme) -->
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=decameron.solar-system-theme)
 
 ## Quick Install
 1. Open the extensions sidebar on VS Code with <kbd>Ctrl</kbd>+<kbd>X</kbd> or <kbd>Cmd</kbd>+<kbd>X</kbd>  
@@ -20,10 +20,10 @@ We hope you'll enjoy it (as much as we do!).
 ## Release schedule
 A new "planet", once every two-weeks.  
 Please note: The theme collection will be updated and you will have to reload VS Code before chosing the newest theme.
-
-### Planets being born
-1. The first planet to be released is Jupiter.  
-2. [In Work - Saturn]
+  
+1. First release: Jupiter.  
+2. In Work - Saturn
+3. In Work - Venus  
   
 ## While you wait for new planets to populate the Solar System
 You can read more about the planetary system we all live in on [Wikipedia](https://en.wikipedia.org/wiki/Solar_System)  
