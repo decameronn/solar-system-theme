@@ -316,6 +316,24 @@
 			"settings": {
 				"foreground": "#ceb465"
 			}
-		}
+		},
+		{
+            // Library constant
+            "scope": "support.constant",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#aa663b"
+            }
+        },
+		{
+            // Library type & class
+            "scope": [
+                "support.type",
+                "support.class"
+            ],
+            "settings": {
+                "foreground": "#ee9a54"
+            }
+        },
 	]
 }
