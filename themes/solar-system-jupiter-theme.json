@@ -82,8 +82,8 @@
 		"dropdown.foreground": "#82acce",
 
 		// Editor
-		"editor.background": "#1c2029",	/* 1c2029 */
-		"editor.foreground": "#feeecd", /* ddcfbf ceb797 ffecd9*/
+		"editor.background": "#1c2029",
+		"editor.foreground": "#feeecd",
 		"editor.findMatchBackground": "#515c6a",
 		"editor.findMatchHighlightBackground": "#ea5c0055",
 		"editor.findRangeHighlightBackground": "#3a3d4166",
@@ -121,7 +121,7 @@
 		"editorGutter.foldingControlForeground": "#c5c5c5",
 		"editorGutter.modifiedBackground": "#0c7d9d",
 		"editorHint.foreground": "#eeeeeeb3",
-		"editorHoverWidget.background": "#1d3041", /* 252526 */
+		"editorHoverWidget.background": "#1d3041",
 		"editorHoverWidget.border": "#454545",
 		"editorHoverWidget.foreground": "#cccccc",
 		"editorHoverWidget.statusBarBackground": "#2c2c2d",
@@ -157,7 +157,7 @@
 		"editorOverviewRuler.wordHighlightStrongForeground": "#c0a0c0cc",
 		"editorPane.background": "#1c2029",
 		"editorRuler.foreground": "#5a5a5a",
-		"editorSuggestWidget.background": "#1d3041", /* 252526 */
+		"editorSuggestWidget.background": "#1d3041",
 		"editorSuggestWidget.border": "#454545",
 		"editorSuggestWidget.focusHighlightForeground": "#18a3ff",
 		"editorSuggestWidget.foreground": "#d4d4d4",
@@ -186,11 +186,11 @@
 		"gitDecoration.deletedResourceForeground": "#c74e39",
 		"gitDecoration.ignoredResourceForeground": "#8c8c8c",
 		"gitDecoration.modifiedResourceForeground": "#e2c08d",
-		"gitDecoration.renamedResourceForeground": "#F4B140",	/* F4B140 - untracked modified files */
+		"gitDecoration.renamedResourceForeground": "#F4B140",	/* untracked modified files */
 		"gitDecoration.stageDeletedResourceForeground": "#c74e39",
 		"gitDecoration.stageModifiedResourceForeground": "#e2c08d",
 		"gitDecoration.submoduleResourceForeground": "#8db9e2",
-		"gitDecoration.untrackedResourceForeground": "#F4B140",		/* F4B140 */
+		"gitDecoration.untrackedResourceForeground": "#F4B140",
 
 		// Icon
 		"icon.foreground": "#c5c5c5",
@@ -234,8 +234,8 @@
 		"listFilterWidget.outline": "#00000000",
 
 		// Menu
-		"menu.background": "#1d3041", /* 252526 */
-		"menu.foreground": "#ddcfbf", /* cccccc */
+		"menu.background": "#1d3041",
+		"menu.foreground": "#ddcfbf",
 		"menu.selectionBackground": "#094771",
 		"menu.selectionForeground": "#ffffff",
 		"menu.separatorBackground": "#bbbbbb",
@@ -282,6 +282,8 @@
 		"panelTitle.activeBorder": "#82acce",
 		"panelTitle.activeForeground": "#82acce",
 		"panelTitle.inactiveForeground": "#5d6b88",
+
+		// Peek View
 		"peekView.border": "#007acc",
 		"peekViewEditor.background": "#001f33",
 		"peekViewEditor.matchHighlightBackground": "#ff8f0099",
@@ -297,14 +299,11 @@
 		"peekViewTitleLabel.foreground": "#ffffff",
 
 		"ports.iconRunningProcessForeground": "#369432",
-		"problemsErrorIcon.foreground": "#f48771",
-		"problemsInfoIcon.foreground": "#75beff",
-		"problemsWarningIcon.foreground": "#cca700",
-		"progressBar.background": "#0e70c0",
+		"progressBar.background": "#a33600",
 
 		// Quick input
-		"quickInput.background": "#1d3041", /* 252526 */
-		"quickInput.foreground": "#ddcfbf", /* cccccc */
+		"quickInput.background": "#1d3041",
+		"quickInput.foreground": "#ddcfbf",
 		"quickInputList.focusBackground": "#094771",
 		"quickInputList.focusForeground": "#ffffff",
 		"quickInputTitle.background": "#ffffff1b",
@@ -363,18 +362,8 @@
 		"tab.activeForeground": "#ffffff",
 		"tab.inactiveBackground": "#1c2029",
 		"tab.inactiveForeground": "#ffffff80",
-/* 		"tab.activeModifiedBorder": "#3399cc",
-		"tab.border": "#252526",
 
-		"tab.inactiveModifiedBorder": "#3399cc80",
-		"tab.lastPinnedBorder": "#cccccc33",
-		"tab.unfocusedActiveBackground": "#1d3041",
-		"tab.unfocusedActiveForeground": "#ffffff80",
-		"tab.unfocusedActiveModifiedBorder": "#3399cc80",
-		"tab.unfocusedInactiveBackground": "#1c2029",
-		"tab.unfocusedInactiveForeground": "#ffffff40",
-		"tab.unfocusedInactiveModifiedBorder": "#3399cc40", */
-
+		// Title Bar
 		"titleBar.activeBackground": "#1d3041",
 		"titleBar.activeForeground": "#cccccc",
 		"titleBar.inactiveBackground": "#1d304199",
