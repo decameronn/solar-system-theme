@@ -307,8 +307,33 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"fontStyle": "italic bold underline",
-				"foreground": "#06a4ff"
+				"foreground": "#aa663b"
 			}
-		}
+		},
+		{
+			// Tag attribute
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"foreground": "#ceb465"
+			}
+		},
+		{
+            // Library constant
+            "scope": "support.constant",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#aa663b"
+            }
+        },
+		{
+            // Library type & class
+            "scope": [
+                "support.type",
+                "support.class"
+            ],
+            "settings": {
+                "foreground": "#ee9a54"
+            }
+        },
 	]
 }
