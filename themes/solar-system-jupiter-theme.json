@@ -307,7 +307,14 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"fontStyle": "italic bold underline",
-				"foreground": "#06a4ff"
+				"foreground": "#aa663b"
+			}
+		},
+		{
+			// Tag attribute
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"foreground": "#ceb465"
 			}
 		}
 	]
