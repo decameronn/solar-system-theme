@@ -1,16 +1,17 @@
 <div align="center">
-<a align="center" href="https://marketplace.visualstudio.com/items?itemName=decameron.solar-system-theme"><img align="center" src="images/assets/solar-system.jpg" /></a>  
+<a align="center" href="https://marketplace.visualstudio.com/items?itemName=decameron.solar-system-theme"><img align="center" src="images/assets/solar-system.jpg" /></a>
+</div>
 <br/><br/>
 
+<div align="center">
 # Solar System Theme
 📌 This is Work In Progress! 📌  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/decameron.solar-system-theme)
 ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/decameron.solar-system-theme)
-
 </div>
-<br/>
+<br/></br>
 
 <table width='100%' align="left">
     <tr>
@@ -35,7 +36,7 @@
         </td>
     </tr>
 </table>
-<br/>
+<br/><br/>
 
 ## Quick Install
 1. Open the extensions sidebar on VS Code  
