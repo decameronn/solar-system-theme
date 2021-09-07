@@ -2,6 +2,9 @@
 
 This file document the most important changes in the [project releases](https://github.com/decameronn/solar-system-theme/releases).
 
+## 0.1.4
+Fix minor inconsistencies in theme presentation on Marketplace
+
 ## 0.1.3
 1. Refine color palette to be more consistent over all UI  
 2. Make semantic elements more distinct in the following syntax:  
