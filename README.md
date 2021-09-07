@@ -14,23 +14,23 @@
 
 <table width='100%' align="center">
     <tr>
-        <td align='center' width='100%' colspan='2'>
+        <td align='center' width='100%'>
             <strong><code>✨ The marvelous Solar System imagined for VS Code - Choose your planet! ✨</code></strong><br />
         </td>
     </tr>
     <tr>
-        <td align='left' width='100%' colspan='2'>
+        <td align='left' width='100%'>
             A professional, hand-crafted theme for Visual Studio Code. For every planet of the Solar System, each color is hand-picked based on high quality, real life images, to reflect the color palette as accurately as possible. Great attention is paid to every detail for a most authentic experience.<br/>
             We hope you'll enjoy it (as much as we do!). </a>
         </td>
     </tr>
     <tr>
-        <td align='left' width='100%' colspan='2'>
+        <td align='left' width='100%'>
             This project developed and maintained by <a href='https://github.com/decameronn' target="_blank">Decameron</a>.
         </td>
     </tr>
     <tr>
-        <td align='left' width='100%' colspan='2'>
+        <td align='left' width='100%'>
             Solar System Image by <a href="https://pixabay.com/users/tumisu-148124/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5680167">Tumisu</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5680167">Pixabay</a>
         <td>
     </tr>
