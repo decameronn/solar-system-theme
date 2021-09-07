@@ -32,7 +32,7 @@
     <tr>
         <td>
             Solar System Image by <a href="https://pixabay.com/users/tumisu-148124/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5680167">Tumisu</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5680167">Pixabay</a>
-        <td>
+        </td>
     </tr>
 </table>
 <br/>
