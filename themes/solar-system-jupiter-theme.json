@@ -79,10 +79,6 @@
 		"extensionButton.prominentBackground": "#49737a",
 		"extensionButton.prominentHoverBackground": "#578992",
 
-		// Focus
-		"focusBorder": "#007fd4",
-		"foreground": "#cccccc",
-
 		// Icon
 		"icon.foreground": "#c5c5c5",
 
@@ -133,6 +129,7 @@
 		"peekViewResult.matchHighlightBackground": "#ea5c004d",
 		"peekViewTitle.background": "#1e1e1e",
 
+		// Ports and Progress Bar
 		"ports.iconRunningProcessForeground": "#369432",
 		"progressBar.background": "#a33600",
 
@@ -143,6 +140,7 @@
 		"quickInputList.focusForeground": "#ffffff",
 		"quickInputTitle.background": "#ffffff1b",
 
+		// Scrollbar
 		"scrollbarSlider.activeBackground": "#223d53",
 		"scrollbarSlider.background": "#1d3041",
 		"scrollbarSlider.hoverBackground": "#223d53",
@@ -179,45 +177,38 @@
 		"tab.inactiveBackground": "#1c2029",
 		"tab.inactiveForeground": "#ffffff80",
 
+		// TODO: Add Terminal color palette
+
 		// Title Bar
 		"titleBar.activeBackground": "#1d3041",
 		"titleBar.activeForeground": "#cccccc",
 		"titleBar.inactiveBackground": "#1d304199",
-		"titleBar.inactiveForeground": "#cccccc99",
-
+		"titleBar.inactiveForeground": "#cccccc99"
 	},
 	"tokenColors":[
-		// {
-		// 	// Italics
-		// 	"scope": "emphasis",
-		// 	"settings": {
-		// 		"fontStyle": "italic"
-		// 	}
-		// },
-		// {
-		// 	// Bold
-		// 	"scope": "strong",
-		// 	"settings": {
-		// 		"fontStyle": "bold"
-		// 	}
-		// },
 		{
-			// Comments
-			"scope": 
-				"comment",
+			// Comment
+			"scope": "comment",
 			"settings": {
 				"foreground": "#5d6b88"
 			}
 		},
 		{
-			// Documentation comments
+			// Documentation comment
 			"scope": "comment.block.documentation",
 			"settings": {
 				"foreground": "#82acce",
 			}
 		},
 		{
-			// Numbers
+            // String
+            "scope": "string",
+            "settings": {
+                "foreground": "#ffce8e"
+            }
+        },
+		{
+			// Numeric constant
 			"scope": "constant.numeric",
 			"settings": {
 				"foreground": "#a33600"
@@ -240,13 +231,6 @@
 				"foreground": "#b13b00"
 			}
 		},
-		{
-            // Variables
-            "scope": "variable",
-            "settings": {
-                "fontStyle": ""
-            }
-        },
 		{
 			// Keywords
 			"scope": "keyword",
@@ -291,8 +275,7 @@
 			// Function
 			"scope": "entity.name.function",
 			"settings": {
-				// "fontStyle": "italic",
-				"foreground": "#ee9a54" // ee9a54
+				"foreground": "#ee9a54" 
 			}
 		},
 		{
@@ -306,7 +289,6 @@
 			// Tag name
 			"scope": "entity.name.tag",
 			"settings": {
-				"fontStyle": "italic bold underline",
 				"foreground": "#aa663b"
 			}
 		},
@@ -318,10 +300,16 @@
 			}
 		},
 		{
+            // Library function
+            "scope": "support.function",
+            "settings": {
+                "foreground": "#d64000"
+            }
+        },
+        {
             // Library constant
             "scope": "support.constant",
             "settings": {
-                "fontStyle": "",
                 "foreground": "#aa663b"
             }
         },
@@ -335,5 +323,98 @@
                 "foreground": "#ee9a54"
             }
         },
+		{
+            // Library variable
+            "scope": "support.other.variable",
+            "settings": {
+                "fontStyle": ""
+            }
+        },
+		{
+            // Invalid
+            "scope": "invalid",
+            "settings": {
+                "foreground": "#b13b00"
+            }
+        },
+        {
+            // Invalid deprecated
+            "scope": "invalid.deprecated",
+            "settings": {
+                "foreground": "#b13b00"
+            }
+        },
+		{
+            // Diff (meta) header
+            "scope": [
+                "meta.diff",
+                "meta.diff.header"
+            ],
+            "settings": {
+                "foreground": "#ceb465"
+            }
+        },
+        {
+            // Markup deleted
+            "scope": "markup.deleted",
+            "settings": {
+                "foreground": "#3ca7ff"
+            }
+        },
+        {
+            // Markup updated
+            "scope": "markup.changed",
+            "settings": {
+                "foreground": "#3ca7ff"
+            }
+        },
+        {
+            // Markup inserted
+            "scope": "markup.inserted",
+            "settings": {
+                "foreground": "#3ca7ff"
+            }
+        },
+		{
+			// Markup link
+			"scope": "markup.underline.link",
+			"settings": {
+				"foreground": "#ceb465"
+			}
+		},
+		{
+            // Markup Quote
+            "scope": "markup.quote",
+            "settings": {
+                "foreground": "#22aa44"
+            }
+        },
+        {
+            // Markup Styling
+            "scope": [
+                "markup.bold",
+                "markup.italic"
+            ],
+            "settings": {
+                "foreground": "#aa663b"
+            }
+        },
+        {
+            // Markup Inline
+            "scope": "markup.inline.raw",
+            "settings": {
+                "foreground": "#aa663b"
+            }
+        },
+        {
+            //Markup Headings
+            "scope": [
+                "markup.heading",
+                "markup.heading.setext"
+            ],
+            "settings": {
+                "foreground": "#b13b00"
+            }
+        }
 	]
 }
