@@ -25,12 +25,12 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td align='left' width='100%' colspan='2'>
             This project developed and maintained by <a href='https://github.com/decameronn' target="_blank">Decameron</a>.
         </td>
     </tr>
     <tr>
-        <td>
+        <td align='left' width='100%' colspan='2>
             Solar System Image by <a href="https://pixabay.com/users/tumisu-148124/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5680167">Tumisu</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5680167">Pixabay</a>
         <td>
     </tr>
