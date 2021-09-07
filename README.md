@@ -1,7 +1,7 @@
 <div align="center">
     <a align="center" href="https://marketplace.visualstudio.com/items?itemName=decameron.solar-system-theme"><img align="center" src="images/assets/solar-system.jpg" /></a>
 </div>
-<br/><br/>
+<br/>
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/decameron.solar-system-theme)
 
 </div>
-<br/></br>
+<br/>
 
 <table width='100%' align="left">
     <tr>
