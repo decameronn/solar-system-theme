@@ -44,14 +44,12 @@
 <div align="center">
     <a align="center" href="https://github.com/decameronn/solar-system-theme"><img align="center" src="images/assets/install.jpg" /></a>
 </div>
-<br/>
 
 <div align="center">
 
 ## Quick & Alternate Install
 
 </div>
-<br/>
 
 ### Quick Install
 1. Open the extensions sidebar on VS Code  
@@ -73,7 +71,6 @@
 <div align="center">
     <a align="center" href="https://github.com/decameronn/solar-system-theme"><img align="center" src="images/assets/settings.jpg" /></a>
 </div>
-<br/>
 
 <div align="center">
 
@@ -103,7 +100,6 @@ We recommend the following settings for the best experience, especially if you h
 <div align="center">
     <a align="center" href="https://github.com/decameronn/solar-system-theme"><img align="center" src="images/assets/release.jpg" /></a>
 </div>
-<br/>
 
 <div align="center">
 
@@ -125,7 +121,6 @@ You can read more about the planetary system we all live in on [Wikipedia](https
 <div align="center">
     <a align="center" href="https://github.com/decameronn/solar-system-theme"><img align="center" src="images/assets/look.jpg" /></a>
 </div>
-<br/>
 
 <div align="center">
 
