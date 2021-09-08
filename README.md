@@ -56,7 +56,7 @@
 2. Search for **Solar System Theme**  
 3. Click **Install** to install it  
 4. Select **Set Color Theme**  
-5. Code/File ＞ Preferences ＞ Color Theme ＞ **Solar System Theme - Jupiter**  
+5. Code/File ＞ Preferences ＞ Color Theme ＞ **Solar System** > Select the desired theme  
 6. Please [rate it](https://marketplace.visualstudio.com/items?itemName=decameron.solar-system-theme) if you enjoy it!  
 
 ### Alternate Install
@@ -64,7 +64,7 @@
 2. Type the command `ext install solar-system-theme`
 3. Click **Install** to install it  
 4. Click on **Reload** to reload VS Code  
-5. Code/File ＞ Preferences ＞ Color Theme ＞ **Solar System Theme - Jupiter**  
+5. Code/File ＞ Preferences ＞ Color Theme ＞ **Solar System** > Select the desired theme  
 6. Please [rate it](https://marketplace.visualstudio.com/items?itemName=decameron.solar-system-theme) if you enjoy it!  
 
 <br/>
