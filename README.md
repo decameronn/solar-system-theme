@@ -7,13 +7,16 @@
 
 # Solar System Theme
 📌 This is Work In Progress! 📌  
+📌 We would love to hear your [feedback](https://github.com/decameronn/solar-system-theme/issues)! 📌  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/decameron.solar-system-theme)
 ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/decameron.solar-system-theme)
-
+  
 </div>
 <br/>
+
+<div>
 
 <table width='100%' align="left">
     <tr>
@@ -23,26 +26,34 @@
     </tr>
     <tr>
         <td>
-            A professional, hand-crafted theme for Visual Studio Code. For every planet of the Solar System, each color is hand-picked based on high quality, real life images, to reflect the color palette as accurately as possible. Great attention is paid to every detail for a most authentic experience.<br/>
+            A professional, hand-crafted theme for Visual Studio Code. Every planet of the Solar System has the color hand-picked, based on high quality, real life images, to reflect the color palette as accurately as possible. Great attention is paid to every detail for the most authentic experience.<br/>
             We hope you'll enjoy it (as much as we do!). </a>
         </td>
     </tr>
     <tr>
         <td>
-            This project developed and maintained by <a href='https://github.com/decameronn' target="_blank">Decameron</a>.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Solar System Image by <a href="https://pixabay.com/users/tumisu-148124/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5680167">Tumisu</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5680167">Pixabay</a>
+            This project is being developed and maintained by <a href='https://github.com/decameronn' target="_blank">Decameron</a>.
         </td>
     </tr>
 </table>
+</div>
 
-<br/><br/>
+<br/>
+<br/>
 
+<div align="center">
+    <a align="center" href="https://github.com/decameronn/solar-system-theme"><img align="center" src="images/assets/install.jpg" /></a>
+</div>
+<br/>
 
-## Quick Install
+<div align="center">
+
+## Quick & Alternate Install
+
+</div>
+<br/>
+
+### Quick Install
 1. Open the extensions sidebar on VS Code  
 2. Search for **Solar System Theme**  
 3. Click **Install** to install it  
@@ -50,7 +61,7 @@
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Solar System Theme - Jupiter**  
 6. Please [rate it](https://marketplace.visualstudio.com/items?itemName=decameron.solar-system-theme) if you enjoy it!  
 
-## Alternate Install
+### Alternate Install
 1. Launch Quick Open menu using  <kbd>Cmd</kbd>+<kbd>P</kbd> or <kbd>Ctrl</kbd>+<kbd>P</kbd>  
 2. Type the command `ext install solar-system-theme`
 3. Click **Install** to install it  
@@ -58,8 +69,22 @@
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Solar System Theme - Jupiter**  
 6. Please [rate it](https://marketplace.visualstudio.com/items?itemName=decameron.solar-system-theme) if you enjoy it!  
 
+<br/>
+<div align="center">
+    <a align="center" href="https://github.com/decameronn/solar-system-theme"><img align="center" src="images/assets/settings.jpg" /></a>
+</div>
+<br/>
+
+<div align="center">
+
 ## Recommended custom settings
+
+</div>
+<br/>
+
 We recommend the following settings for the best experience, especially if you have [Cascadia Code](https://github.com/microsoft/cascadia-code) font installed.  
+  
+<br/>
 
 ```json
 "workbench.colorTheme": "Solar System Theme - Jupiter",
@@ -74,19 +99,40 @@ We recommend the following settings for the best experience, especially if you h
 "files.autoSave": "afterDelay"
 ```
 
+<br/>
+<div align="center">
+    <a align="center" href="https://github.com/decameronn/solar-system-theme"><img align="center" src="images/assets/release.jpg" /></a>
+</div>
+<br/>
+
+<div align="center">
+
 ## Release schedule
+
+</div>
+
 We aim to release one sub-theme, once every two-weeks.  
 Please note: The theme collection will be updated and you will have to reload VS Code before chosing the newest theme.
   
-1. First theme released: Jupiter.  
+1. First Planet released: Jupiter.  
 2. In Work - Saturn
 3. In Work - Venus  
-4. ... TBU
+4. TBU
   
-## While you wait for new planets to populate the Solar System
 You can read more about the planetary system we all live in on [Wikipedia](https://en.wikipedia.org/wiki/Solar_System)  
-  
+
+<br/>
+<div align="center">
+    <a align="center" href="https://github.com/decameronn/solar-system-theme"><img align="center" src="images/assets/look.jpg" /></a>
+</div>
+<br/>
+
+<div align="center">
+
 ## Look & Feel
+
+</div>
+
 ### Welcome Screen
 ![Welcome Screen](/images/samples/welcome-screen.png)
 ### Javascript 
