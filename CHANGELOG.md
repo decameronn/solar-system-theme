@@ -2,6 +2,11 @@
 
 This file document the most important changes in the [project releases](https://github.com/decameronn/solar-system-theme/releases).
 
+## 1.0.0
+1. We are happy to announce the release of Italic version of Jupter Theme! Enjoy!  
+2. Improve the structure and content of Readme file
+3. Fix inconsistent color palette for comments  
+
 ## 0.1.4
 Fix minor inconsistencies in theme presentation on Marketplace
 

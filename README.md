@@ -110,7 +110,9 @@ We recommend the following settings for the best experience, especially if you h
 We aim to release one sub-theme, once every two-weeks.  
 Please note: The theme collection will be updated and you will have to reload VS Code before chosing the newest theme.
   
-1. First Planet released: Jupiter.  
+1. First Planet released:  
+    - Jupiter  
+    - Jupiter Italic  
 2. In Work - Saturn
 3. In Work - Venus  
 4. TBU
