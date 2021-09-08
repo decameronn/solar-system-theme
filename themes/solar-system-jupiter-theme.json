@@ -194,8 +194,11 @@
 			}
 		},
 		{
-			// Documentation comment
-			"scope": "comment.block.documentation",
+			// Block and Documentation comment
+			"scope": [
+				"comment.block",
+				"comment.block.documentation"
+			],
 			"settings": {
 				"foreground": "#82acce",
 			}
