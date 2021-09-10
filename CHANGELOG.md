@@ -2,6 +2,9 @@
 
 This file document the most important changes in the [project releases](https://github.com/decameronn/solar-system-theme/releases).
 
+## 2.0.0
+1. The color theme for Saturn has arrived!
+
 ## 1.0.0
 1. We are happy to announce the release of Italic version of Jupiter Theme! Enjoy!  
 2. Improve the structure and content of Readme file
