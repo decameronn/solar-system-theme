@@ -24,6 +24,11 @@
                 "label": "Solar System - Jupiter Italic",
                 "uiTheme": "vs-dark",
                 "path": "./themes/solar-system-jupiter-italic-theme.json"
+            },
+            {
+                "label": "Solar System - Saturn",
+                "uiTheme": "vs-dark",
+                "path": "./themes/solar-system-saturn-theme.json"
             }
         ]
     },
