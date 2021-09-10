@@ -4,11 +4,11 @@
 	"colors": {
 		// Activity bar
 		"activityBar.activeBorder": "#a1b0ab",
-		"activityBar.background": "#1c2029",
-		"activityBar.border": "#1d3041",
+		"activityBar.background": "#2a2620",  //1E1D1E
+		"activityBar.border": "#2a2620",
 		"activityBar.dropBorder": "#a1b0ab",
 		"activityBar.foreground": "#a1b0ab",
-		"activityBar.inactiveForeground": "#494239",
+		"activityBar.inactiveForeground": "#8d9794", // 494239
 		"activityBarBadge.background": "#913000",
 		"activityBarBadge.foreground": "#ffffff",
 
@@ -20,7 +20,7 @@
 
 		// Breadcrumb
 		"breadcrumb.activeSelectionForeground": "#e0e0e0",
-		"breadcrumb.background": "#1c2029",
+		"breadcrumb.background": "#1E1D1E",
 		"breadcrumb.focusForeground": "#e0e0e0",
 		"breadcrumb.foreground": "#cccccccc",
 		"breadcrumbPicker.background": "#252526",
@@ -41,12 +41,12 @@
 		"diffEditor.removedTextBackground": "#ff000033",
 
 		// Dropdown
-		"dropdown.background": "#1d3041",
-		"dropdown.border": "#1d3041",
+		"dropdown.background": "#1E1D1E",
+		"dropdown.border": "#1E1D1E",
 		"dropdown.foreground": "#a1b0ab",
 
 		// Editor
-		"editor.background": "#1c2029", // 1c2029
+		"editor.background": "#1E1D1E", // 1E1D1E
 		"editor.foreground": "#a6a69d",
 		"editor.findMatchHighlightBackground": "#ea5c0055",
 		"editor.selectionBackground": "#264f78",
@@ -55,9 +55,9 @@
 		"editorCursor.foreground": "#aeafad",
 		"editorGroup.border": "#444444",
 		"editorGroup.dropBackground": "#53595d80",
-		"editorGroupHeader.noTabsBackground": "#1c2029",
+		"editorGroupHeader.noTabsBackground": "#1E1D1E",
 		"editorGroupHeader.tabsBackground": "#252526",
-		"editorHoverWidget.background": "#1d3041",
+		"editorHoverWidget.background": "#1E1D1E",
 		"editorHoverWidget.border": "#454545",
 		"editorHoverWidget.foreground": "#cccccc",
 		"editorHoverWidget.statusBarBackground": "#2c2c2d",
@@ -71,7 +71,7 @@
 		"editorMarkerNavigationInfo.background": "#75beff",
 		"editorMarkerNavigationWarning.background": "#cca700",
 		"editorWhitespace.foreground": "#e3e4e229",
-		"editorWidget.background": "#1d3041",
+		"editorWidget.background": "#1E1D1E",
 		"editorWidget.border": "#454545",
 		"editorWidget.foreground": "#cccccc",
 
@@ -111,7 +111,7 @@
 		"minimap.warningHighlight": "#cca700",
 
 		// Panel
-		"panel.background": "#1c2029",
+		"panel.background": "#1E1D1E",
 		"panel.border": "#80808059",
 		"panel.dropBorder": "#a1b0ab",
 		"panelSection.border": "#80808059",
@@ -134,7 +134,7 @@
 		"progressBar.background": "#a1b0ab",
 
 		// Quick input
-		"quickInput.background": "#1d3041",
+		"quickInput.background": "#1E1D1E",
 		"quickInput.foreground": "#ddcfbf",
 		"quickInputList.focusBackground": "#094771",
 		"quickInputList.focusForeground": "#ffffff",
@@ -142,12 +142,12 @@
 
 		// Scrollbar
 		"scrollbarSlider.activeBackground": "#223d53",
-		"scrollbarSlider.background": "#1d3041",
+		"scrollbarSlider.background": "#1E1D1E",
 		"scrollbarSlider.hoverBackground": "#223d53",
 
 		// Sidebar
-		"sideBar.background": "#1c2029",
-		"sideBar.border": "#1d3041",
+		"sideBar.background": "#1E1D1E",
+		"sideBar.border": "#1E1D1E",
 		"sideBar.dropBackground": "#53595d80",
 		"sideBar.foreground": "#ceb797",
 		"sideBarSectionHeader.background": "#00000000",
@@ -155,11 +155,11 @@
 		"sideBarSectionHeader.foreground": "#a1b0ab",
 
 		// Statusbar
-		"statusBar.background": "#1d3041", // 1d3041
+		"statusBar.background": "#2a2620", // 2a2620
 		"statusBar.debuggingBackground": "#cc6633",
 		"statusBar.debuggingForeground": "#ffffff",
 		"statusBar.foreground": "#ffffff",
-		"statusBar.noFolderBackground": "#1d3041",
+		"statusBar.noFolderBackground": "#2a2620",
 		"statusBar.noFolderForeground": "#ffffff",
 		"statusBarItem.activeBackground": "#ffffff2e",
 		"statusBarItem.errorBackground": "#a1b0ab",
@@ -172,17 +172,17 @@
 		"statusBarItem.remoteForeground": "#ffffff",
 
 		// Tab
-		"tab.activeBackground": "#1d3041",
+		"tab.activeBackground": "#1E1D1E",
 		"tab.activeForeground": "#ffffff",
-		"tab.inactiveBackground": "#1c2029",
+		"tab.inactiveBackground": "#1E1D1E",
 		"tab.inactiveForeground": "#ffffff80",
 
 		// TODO: Add Terminal color palette
 
 		// Title Bar
-		"titleBar.activeBackground": "#1d3041",
+		"titleBar.activeBackground": "#1E1D1E",
 		"titleBar.activeForeground": "#cccccc",
-		"titleBar.inactiveBackground": "#1d304199",
+		"titleBar.inactiveBackground": "#1E1D1E99",
 		"titleBar.inactiveForeground": "#cccccc99"
 	},
 	"tokenColors":[
