@@ -2,7 +2,7 @@
     "name": "solar-system-theme",
     "displayName": "Solar System Theme",
     "description": "The marvelous Solar System imagined for VS Code - Choose your planet!",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "author": "Decameron",
     "publisher": "decameron",
     "icon": "images/icon.png",
@@ -29,15 +29,17 @@
                 "label": "Solar System - Saturn",
                 "uiTheme": "vs-dark",
                 "path": "./themes/solar-system-saturn-theme.json"
+            },
+            {
+                "label": "Solar System - Saturn Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/solar-system-saturn-italic-theme.json"
             }
         ]
     },
     "keywords": [
-        "solar system",
-        "jupiter",
-        "theme",
-        "dark",
-        "italic",
+        "solar system", "jupiter", "saturn", 
+        "theme", "dark", "italic",
         "decameron"
     ],
     "repository": {
