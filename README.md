@@ -84,7 +84,6 @@ We recommend the following settings for the best experience, especially if you h
 <br/>
 
 ```json
-"workbench.colorTheme": "Solar System Theme - Jupiter",
 "workbench.iconTheme": "vscode-icons",
 "workbench.productIconTheme": "fluent-icons",
 "editor.fontFamily": "'Cascadia Code Light', 'Jetbrains Mono', 'Fira Code', monospace",
