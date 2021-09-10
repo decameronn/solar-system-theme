@@ -112,8 +112,8 @@ Please note: The theme collection will be updated and you will have to reload VS
 
 <table width='65%' align='center'>
     <th colspan=2>Release Status</th>
-    <tr >
-        <td>Mercury</td><td background='tea-green'>Planned</td></tr>
+    <tr colspan=2>
+        <td>Mercury</td><td background='blue'>Planned</td></tr>
     <tr colspan=2>
         <td>Venus</td><td>Planned</td></tr>
     <tr colspan=2>
@@ -125,7 +125,7 @@ Please note: The theme collection will be updated and you will have to reload VS
     <tr colspan=2>
         <td>Saturn</td><td>Released</td></tr>
     <tr colspan=2>
-        <td>Uranus</td><td>In Work</td>/tr>
+        <td>Uranus</td><td>In Work</td></tr>
     <tr colspan=2>
         <td>Neptune</td><td>Planned</td></tr>
 </table>  
