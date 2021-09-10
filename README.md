@@ -109,6 +109,8 @@ We recommend the following settings for the best experience, especially if you h
 We aim to release one sub-theme, once every two-weeks.  
 Please note: The theme collection will be updated and you will have to reload VS Code before chosing the newest theme.
 
+<div>
+
 <table width='65%' align='center'>
     <th colspan=4>Release Status</th>
     <tr colspan=4>
@@ -128,8 +130,15 @@ Please note: The theme collection will be updated and you will have to reload VS
         <td>Neptune</td><td>Planned</td>
     </tr>
 </table>  
-  
+
+</div>
+<br/>
+
+<div>
+
 You can read more about the planetary system we all live in on [Wikipedia](https://en.wikipedia.org/wiki/Solar_System)  
+
+</div>
 
 <br/>
 
