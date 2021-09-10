@@ -111,8 +111,8 @@ We aim to release one sub-theme, once every two-weeks.
 Please note: The theme collection will be updated and you will have to reload VS Code before chosing the newest theme.
 
 <table width='65%' align='center'>
-    <thead>Release Status</thead>
-    <tr colspan=2>
+    <th colspan=2>Release Status</th>
+    <tr >
         <td>Mercury</td><td background='tea-green'>Planned</td></tr>
     <tr colspan=2>
         <td>Venus</td><td>Planned</td></tr>
