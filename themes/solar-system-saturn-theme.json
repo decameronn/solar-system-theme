@@ -4,7 +4,7 @@
 	"colors": {
 		// Activity bar
 		"activityBar.activeBorder": "#a1b0ab",
-		"activityBar.background": "#2a2620",  //1E1D1E
+		"activityBar.background": "#1E1D1E",  //1E1D1E
 		"activityBar.border": "#2a2620",
 		"activityBar.dropBorder": "#a1b0ab",
 		"activityBar.foreground": "#a1b0ab",
@@ -111,7 +111,7 @@
 		"minimap.warningHighlight": "#cca700",
 
 		// Panel
-		"panel.background": "#1E1D1E",
+		"panel.background": "#2a2620", // 1E1D1E
 		"panel.border": "#80808059",
 		"panel.dropBorder": "#a1b0ab",
 		"panelSection.border": "#80808059",
@@ -172,7 +172,7 @@
 		"statusBarItem.remoteForeground": "#ffffff",
 
 		// Tab
-		"tab.activeBackground": "#1E1D1E",
+		"tab.activeBackground": "#2a2620",
 		"tab.activeForeground": "#ffffff",
 		"tab.inactiveBackground": "#1E1D1E",
 		"tab.inactiveForeground": "#ffffff80",
@@ -180,7 +180,7 @@
 		// TODO: Add Terminal color palette
 
 		// Title Bar
-		"titleBar.activeBackground": "#1E1D1E",
+		"titleBar.activeBackground": "#2a2620", // 1E1D1E
 		"titleBar.activeForeground": "#cccccc",
 		"titleBar.inactiveBackground": "#1E1D1E99",
 		"titleBar.inactiveForeground": "#cccccc99"
