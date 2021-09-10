@@ -111,23 +111,23 @@ We aim to release one sub-theme, once every two-weeks.
 Please note: The theme collection will be updated and you will have to reload VS Code before chosing the newest theme.
 
 <table width='65%' align='center'>
-    <th colspan=2>Release Status</th>
-    <tr colspan=2>
-        <td>Mercury</td><td background='blue'>Planned</td></tr>
-    <tr colspan=2>
-        <td>Venus</td><td>Planned</td></tr>
-    <tr colspan=2>
-        <td>Earth</td><td>Planned</td></tr>
-    <tr colspan=2>
-        <td>Mars</td><td>Planned</td></tr>
-    <tr colspan=2>
-        <td>Jupiter</td><td>Released</td></tr>
-    <tr colspan=2>
-        <td>Saturn</td><td>Released</td></tr>
-    <tr colspan=2>
-        <td>Uranus</td><td>In Work</td></tr>
-    <tr colspan=2>
-        <td>Neptune</td><td>Planned</td></tr>
+    <th colspan=4>Release Status</th>
+    <tr colspan=4>
+        <td>Mercury</td><td>Planned</td>
+        <td>Venus</td><td>Planned</td>
+    </tr>
+    <tr colspan=4>
+        <td>Earth</td><td>Planned</td>
+        <td>Mars</td><td>Planned</td>
+    </tr>
+    <tr colspan=4>
+        <td>Jupiter</td><td>Released</td>
+        <td>Saturn</td><td>Released</td>
+    </tr>
+    <tr colspan=4>
+        <td>Uranus</td><td>In Work</td>
+        <td>Neptune</td><td>Planned</td>
+    </tr>
 </table>  
   
 You can read more about the planetary system we all live in on [Wikipedia](https://en.wikipedia.org/wiki/Solar_System)  
