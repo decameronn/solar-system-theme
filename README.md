@@ -7,7 +7,7 @@
 
 # Solar System Theme
 📌 This is Work In Progress! 📌  
-📌 We would love to hear your [feedback](https://github.com/decameronn/solar-system-theme/issues)! 📌  
+📌 We would love to hear your [feedback](https://github.com/decameronn/solar-system-theme/issues)! Please see Release Schedule down below. 📌  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/decameron.solar-system-theme)
@@ -109,17 +109,31 @@ We recommend the following settings for the best experience, especially if you h
 
 We aim to release one sub-theme, once every two-weeks.  
 Please note: The theme collection will be updated and you will have to reload VS Code before chosing the newest theme.
-  
-1. First Planet released:  
-    - Jupiter  
-    - Jupiter Italic  
-2. In Work - Saturn
-3. In Work - Venus  
-4. TBU
+
+<table width='65%' align='center'>
+    <thead>Release Status</thead>
+    <tr colspan=2>
+        <td>Mercury</td><td background='tea-green'>Planned</td></tr>
+    <tr colspan=2>
+        <td>Venus</td><td>Planned</td></tr>
+    <tr colspan=2>
+        <td>Earth</td><td>Planned</td></tr>
+    <tr colspan=2>
+        <td>Mars</td><td>Planned</td></tr>
+    <tr colspan=2>
+        <td>Jupiter</td><td>Released</td></tr>
+    <tr colspan=2>
+        <td>Saturn</td><td>Released</td></tr>
+    <tr colspan=2>
+        <td>Uranus</td><td>In Work</td>/tr>
+    <tr colspan=2>
+        <td>Neptune</td><td>Planned</td></tr>
+</table>  
   
 You can read more about the planetary system we all live in on [Wikipedia](https://en.wikipedia.org/wiki/Solar_System)  
 
 <br/>
+
 <div align="center">
     <a align="center" href="https://github.com/decameronn/solar-system-theme"><img align="center" src="images/assets/look.jpg" /></a>
 </div>
