@@ -2,6 +2,10 @@
 
 This file document the most important changes in the [project releases](https://github.com/decameronn/solar-system-theme/releases).
 
+## 2.1.1
+1. Add development branch for Uranus Theme
+2. Update package.json & Readme descriptions accordingly
+
 ## 2.0.0
 1. The color theme for Saturn has arrived!
 
