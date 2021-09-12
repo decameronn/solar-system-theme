@@ -359,21 +359,21 @@
             // Markup deleted
             "scope": "markup.deleted",
             "settings": {
-                "foreground": "#cdb7be"
+                "foreground": "#9ed4f0"
             }
         },
         {
             // Markup updated
             "scope": "markup.changed",
             "settings": {
-                "foreground": "#cdb7be"
+                "foreground": "#9ed4f0"
             }
         },
         {
             // Markup inserted
             "scope": "markup.inserted",
             "settings": {
-                "foreground": "#cdb7be"
+                "foreground": "#9ed4f0"
             }
         },
 		{
@@ -397,14 +397,14 @@
                 "markup.italic"
             ],
             "settings": {
-                "foreground": "#cdb7be"
+                "foreground": "#9ed4f0"
             }
         },
         {
             // Markup Inline
             "scope": "markup.inline.raw",
             "settings": {
-                "foreground": "#cdb7be"
+                "foreground": "#9ed4f0" // cdb7be
             }
         },
         {
