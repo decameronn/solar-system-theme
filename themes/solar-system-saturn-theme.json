@@ -20,7 +20,7 @@
 		"breadcrumb.activeSelectionForeground": "#e0e0e0",
 		"breadcrumb.background": "#22282b",
 		"breadcrumb.focusForeground": "#e0e0e0",
-		"breadcrumb.foreground": "#cccccccc",
+		"breadcrumb.foreground": "#aed0d1cc",
 		"breadcrumbPicker.background": "#252526",
 		// Button
 		"button.background": "#913000",
@@ -30,8 +30,8 @@
 		"debugExceptionWidget.border": "#a31515",
 		"debugToolBar.background": "#333333",
 		// Diff
-		"descriptionForeground": "#ccccccb3",
-		"diffEditor.diagonalFill": "#cccccc33",
+		"descriptionForeground": "#aed0d1b3",
+		"diffEditor.diagonalFill": "#aed0d133",
 		"diffEditor.insertedTextBackground": "#9bb95533",
 		"diffEditor.removedTextBackground": "#ff000033",
 		// Dropdown
@@ -52,7 +52,7 @@
 		"editorGroupHeader.tabsBackground": "#252526",
 		"editorHoverWidget.background": "#22282b",
 		"editorHoverWidget.border": "#454545",
-		"editorHoverWidget.foreground": "#cccccc",
+		"editorHoverWidget.foreground": "#aed0d1",
 		"editorHoverWidget.statusBarBackground": "#2c2c2d",
 		"editorIndentGuide.activeBackground": "#707070",
 		"editorIndentGuide.background": "#404040",
@@ -66,7 +66,7 @@
 		"editorWhitespace.foreground": "#e3e4e229",
 		"editorWidget.background": "#22282b",
 		"editorWidget.border": "#454545",
-		"editorWidget.foreground": "#cccccc",
+		"editorWidget.foreground": "#a1b9cf",  // aed0d1
 		// Extension Button
 		"extensionButton.prominentBackground": "#49737a",
 		"extensionButton.prominentHoverBackground": "#578992",
@@ -133,7 +133,7 @@
 		"sideBar.dropBackground": "#53595d80",
 		"sideBar.foreground": "#9FBCCA", //ceb797
 		"sideBarSectionHeader.background": "#00000000",
-		"sideBarSectionHeader.border": "#cccccc33",
+		"sideBarSectionHeader.border": "#aed0d133",
 		"sideBarSectionHeader.foreground": "#4c88a0",
 		// Statusbar
 		"statusBar.background": "#30454d", // 373F42
@@ -158,9 +158,9 @@
 		"tab.inactiveForeground": "#ffffff80",
 		// Title Bar
 		"titleBar.activeBackground": "#30454d",
-		"titleBar.activeForeground": "#cccccc",
+		"titleBar.activeForeground": "#aed0d1",
 		"titleBar.inactiveBackground": "#22282b99",
-		"titleBar.inactiveForeground": "#cccccc99"
+		"titleBar.inactiveForeground": "#aed0d199"
 	},
 	"tokenColors": [
 		{
@@ -255,7 +255,7 @@
 			// Function
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#aad0d1" //468ba7
+				"foreground": "#9ed8da"  //468ba7
 			}
 		},
 		{
@@ -331,7 +331,7 @@
 				"meta.diff.header"
 			],
 			"settings": {
-				"foreground": "#cdc8d0"
+				"foreground": "#abc9d1"
 			}
 		},
 		{
@@ -359,7 +359,7 @@
 			// Markup link
 			"scope": "markup.underline.link",
 			"settings": {
-				"foreground": "#cdc8d0"
+				"foreground": "#abc9d1"
 			}
 		},
 		{
