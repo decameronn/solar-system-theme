@@ -5,7 +5,7 @@
 		// Activity bar
 		"activityBar.activeBorder": "#4c88a0",
 		"activityBar.background": "#22282b",
-		"activityBar.border": "#373F42",
+		"activityBar.border": "#30454d",
 		"activityBar.dropBorder": "#4c88a0",
 		"activityBar.foreground": "#4c88a0",
 		"activityBar.inactiveForeground": "#8d9794",
@@ -125,22 +125,22 @@
 		"quickInputTitle.background": "#ffffff1b",
 		// Scrollbar
 		"scrollbarSlider.activeBackground": "#223d53",
-		"scrollbarSlider.background": "#373F42",
+		"scrollbarSlider.background": "#30454d",
 		"scrollbarSlider.hoverBackground": "#223d53",
 		// Sidebar
 		"sideBar.background": "#22282b",
-		"sideBar.border": "#373F42",
+		"sideBar.border": "#30454d",
 		"sideBar.dropBackground": "#53595d80",
 		"sideBar.foreground": "#9FBCCA", //ceb797
 		"sideBarSectionHeader.background": "#00000000",
 		"sideBarSectionHeader.border": "#cccccc33",
 		"sideBarSectionHeader.foreground": "#4c88a0",
 		// Statusbar
-		"statusBar.background": "#373F42", // 373F42
+		"statusBar.background": "#30454d", // 373F42
 		"statusBar.debuggingBackground": "#cc6633",
 		"statusBar.debuggingForeground": "#ffffff",
 		"statusBar.foreground": "#ffffff",
-		"statusBar.noFolderBackground": "#373F42",
+		"statusBar.noFolderBackground": "#274049",
 		"statusBar.noFolderForeground": "#ffffff",
 		"statusBarItem.activeBackground": "#ffffff2e",
 		"statusBarItem.errorBackground": "#4c88a0",
@@ -152,12 +152,12 @@
 		"statusBarItem.remoteBackground": "#16825d",
 		"statusBarItem.remoteForeground": "#ffffff",
 		// Tab
-		"tab.activeBackground": "#373F42",
+		"tab.activeBackground": "#30454d",
 		"tab.activeForeground": "#ffffff",
 		"tab.inactiveBackground": "#22282b",
 		"tab.inactiveForeground": "#ffffff80",
 		// Title Bar
-		"titleBar.activeBackground": "#373F42",
+		"titleBar.activeBackground": "#30454d",
 		"titleBar.activeForeground": "#cccccc",
 		"titleBar.inactiveBackground": "#22282b99",
 		"titleBar.inactiveForeground": "#cccccc99"
@@ -177,7 +177,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "#aad0d1"
+				"foreground": "#aed0d1"
 			}
 		},
 		{
@@ -255,7 +255,7 @@
 			// Function
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#468ba7"
+				"foreground": "#aad0d1" //468ba7
 			}
 		},
 		{
