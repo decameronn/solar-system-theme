@@ -7,7 +7,7 @@
 
 # Solar System Theme
 📌 This is Work In Progress! We would love to hear your [feedback](https://github.com/decameronn/solar-system-theme/issues)! 📌  
-📌 **NEWS:** __Saturn Theme Released!__ Please see Release Status down below. 📌  
+📌 **NEWS:** __Uranus Theme Released!__ Please see Release Status down below. 📌  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/decameron.solar-system-theme)
@@ -126,7 +126,7 @@ Please note: The theme collection will be updated and you will have to reload VS
         <td>Saturn</td><td>Released</td>
     </tr>
     <tr colspan=4>
-        <td>Uranus</td><td>In Work</td>
+        <td>Uranus</td><td>Released</td>
         <td>Neptune</td><td>Planned</td>
     </tr>
 </table>  

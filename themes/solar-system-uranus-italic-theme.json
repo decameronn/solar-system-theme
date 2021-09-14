@@ -253,6 +253,7 @@
 			// Storage type 
 			"scope": "storage.type",
 			"settings": {
+        "fontStyle": "italic",
 				"foreground": "#4a97b6"
 			}
 		},
@@ -272,6 +273,7 @@
 			// Inherited class
 			"scope": "entity.other.inherited-class",
 			"settings": {
+        "fontStyle": "italic",
 				"foreground": "#8bc7df"
 			}
 		},
@@ -286,6 +288,7 @@
 			// Function parameter (not argument)
 			"scope": "variable.parameter",
 			"settings": {
+        "fontStyle": "italic",
 				"foreground": "#6da1b6"
 			}
 		},
@@ -324,6 +327,7 @@
 				"support.class"
 			],
 			"settings": {
+        "fontStyle": "italic",
 				"foreground": "#6DBACA"
 			}
 		},
@@ -355,6 +359,7 @@
 				"meta.diff.header"
 			],
 			"settings": {
+        "fontStyle": "italic",
 				"foreground": "#abc9d1"
 			}
 		},
@@ -400,6 +405,7 @@
 				"markup.italic"
 			],
 			"settings": {
+        "fontStyle": "italic",
 				"foreground": "#9ed4f0"
 			}
 		},
