@@ -2,6 +2,9 @@
 
 This file document the most important changes in the [project releases](https://github.com/decameronn/solar-system-theme/releases).
 
+## 2.3.2
+1. New branch for Mercury development
+
 ## 2.3.1
 1. Release Candidate for Uranus Theme  
 2. Add Uranus Italic theme
