@@ -44,6 +44,11 @@
                 "label": "Solar System - Uranus Italic",
                 "uiTheme": "vs-dark",
                 "path": "./themes/solar-system-uranus-italic-theme.json"
+            },
+            {
+                "label": "Solar System - Mercury",
+                "uiTheme": "vs-dark",
+                "path": "./themes/solar-system-mercury-theme.json"
             }
         ]
     },
