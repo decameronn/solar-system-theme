@@ -9,13 +9,13 @@
     "activityBar.dropBorder": "#C4BFBC",
     "activityBar.foreground": "#C4BFBC",
     "activityBar.inactiveForeground": "#5d6b88",
-    "activityBarBadge.background": "#913000",
-    "activityBarBadge.foreground": "#ffffff",
+    "activityBarBadge.background": "#D4D4D3",  //913000
+    "activityBarBadge.foreground": "#060606", //fff
     // Badge and Banner
-    "badge.background": "#913000",
-    "badge.foreground": "#ffffff",
-    "banner.background": "#913000",
-    "banner.foreground": "#ffffff",
+    "badge.background": "#D4D4D3",  //913000
+    "badge.foreground": "#060606", //fff
+    "banner.background": "#D4D4D3",  //913000
+    "banner.foreground": "#060606", //fff
     // Breadcrumb
     "breadcrumb.activeSelectionForeground": "#e0e0e0",
     "breadcrumb.background": "#080808",
@@ -23,11 +23,11 @@
     "breadcrumb.foreground": "#cccccccc",
     "breadcrumbPicker.background": "#222222",
     // Button
-    "button.background": "#913000",
-    "button.foreground": "#ffffff",
+    "button.background": "#D4D4D3",  //913000
+    "button.foreground": "#060606", //#060606
     // Debugger
     "debugExceptionWidget.background": "#420b0d",
-    "debugExceptionWidget.border": "#913000",
+    "debugExceptionWidget.border": "#D4D4D3",  //913000
     "debugToolBar.background": "#333333",
     // Diff
     "descriptionForeground": "#ccccccb3",
@@ -60,7 +60,7 @@
     "editorLineNumber.foreground": "#5d6b88",
     "editorLink.activeForeground": "#4e94ce",
     "editorMarkerNavigation.background": "#2d2d30",
-    "editorMarkerNavigationError.background": "#f48771",
+    "editorMarkerNavigationError.background": "#DCD7D3", //f48771
     "editorMarkerNavigationInfo.background": "#75beff",
     "editorMarkerNavigationWarning.background": "#cca700",
     "editorWhitespace.foreground": "#e3e4e229",
@@ -81,13 +81,17 @@
     "inputOption.activeForeground": "#ffffff",
     "inputValidation.errorBackground": "#5a1d1d",
     "inputValidation.errorBorder": "#be1100",
-    "inputValidation.infoBackground": "#063b49",
+    "inputValidation.infoBackground": "#252525",
     "inputValidation.infoBorder": "#DCD7D3",
     "inputValidation.warningBackground": "#352a05",
     "inputValidation.warningBorder": "#b89500",
+    // Decorations
+    "gitDecoration.modifiedResourceForeground": "#ecd8c8",
     // List
     "list.activeSelectionBackground": "#292928",
     "list.activeSelectionForeground": "#ffffff",
+    "list.errorForeground": "#DCD7D3",
+    "list.warningForeground": "#DCD7D3",
     "list.dropBackground": "#383b3d",
     "list.highlightForeground": "#18a3ff",
     "list.hoverBackground": "#2a2d2e",
@@ -116,7 +120,7 @@
     "peekViewTitle.background": "#1e1e1e",
     // Ports and Progress Bar
     "ports.iconRunningProcessForeground": "#369432",
-    "progressBar.background": "#a33600",
+    "progressBar.background": "#e4d1e4", //a33600
     // Quick input
     "quickInput.background": "#222222",
     "quickInput.foreground": "#C4BFBC",
@@ -143,7 +147,7 @@
     "statusBar.noFolderBackground": "#222222",
     "statusBar.noFolderForeground": "#ffffff",
     "statusBarItem.activeBackground": "#ffffff2e",
-    "statusBarItem.errorBackground": "#a33600",
+    "statusBarItem.errorBackground": "#e4d1e4", //a33600
     "statusBarItem.errorForeground": "#ffffff",
     "statusBarItem.hoverBackground": "#ffffff1f",
     "statusBarItem.prominentBackground": "#00000080",
@@ -156,7 +160,6 @@
     "tab.activeForeground": "#ffffff",
     "tab.inactiveBackground": "#080808",
     "tab.inactiveForeground": "#ffffff80",
-    // TODO: Add Terminal color palette
     // Title Bar
     "titleBar.activeBackground": "#222222",
     "titleBar.activeForeground": "#cccccc",

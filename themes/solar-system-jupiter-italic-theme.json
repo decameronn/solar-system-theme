@@ -176,16 +176,15 @@
 		"tab.activeForeground": "#ffffff",
 		"tab.inactiveBackground": "#1c2029",
 		"tab.inactiveForeground": "#ffffff80",
-
+		
 		// TODO: Add Terminal color palette
-
 		// Title Bar
 		"titleBar.activeBackground": "#1d3041",
 		"titleBar.activeForeground": "#cccccc",
 		"titleBar.inactiveBackground": "#1d304199",
 		"titleBar.inactiveForeground": "#cccccc99"
 	},
-	"tokenColors":[
+	"tokenColors": [
 		{
 			// Comment
 			"scope": "comment",
@@ -204,12 +203,12 @@
 			}
 		},
 		{
-            // String
-            "scope": "string",
-            "settings": {
-                "foreground": "#ffce8e"
-            }
-        },
+			// String
+			"scope": "string",
+			"settings": {
+				"foreground": "#ffce8e"
+			}
+		},
 		{
 			// Numeric constant
 			"scope": "constant.numeric",
@@ -260,9 +259,9 @@
 			// Class
 			"scope": [
 				"entity.name.class",
-                "entity.name.type",
-                "entity.name.namespace",
-                "entity.name.scope-resolution"
+				"entity.name.type",
+				"entity.name.namespace",
+				"entity.name.scope-resolution"
 			],
 			"settings": {
 				"foreground": "#a33600"
@@ -280,7 +279,7 @@
 			// Function
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#ee9a54" 
+				"foreground": "#ee9a54"
 			}
 		},
 		{
@@ -306,83 +305,83 @@
 			}
 		},
 		{
-            // Library function
-            "scope": "support.function",
-            "settings": {
-                "foreground": "#d64000"
-            }
-        },
-        {
-            // Library constant
-            "scope": "support.constant",
-            "settings": {
-                "foreground": "#aa663b"
-            }
-        },
+			// Library function
+			"scope": "support.function",
+			"settings": {
+				"foreground": "#d64000"
+			}
+		},
 		{
-            // Library type & class
-            "scope": [
-                "support.type",
-                "support.class"
-            ],
-            "settings": {
+			// Library constant
+			"scope": "support.constant",
+			"settings": {
+				"foreground": "#aa663b"
+			}
+		},
+		{
+			// Library type & class
+			"scope": [
+				"support.type",
+				"support.class"
+			],
+			"settings": {
 				"fontStyle": "italic",
-                "foreground": "#ee9a54"
-            }
-        },
+				"foreground": "#ee9a54"
+			}
+		},
 		{
-            // Library variable
-            "scope": "support.other.variable",
-            "settings": {
-                "fontStyle": ""
-            }
-        },
+			// Library variable
+			"scope": "support.other.variable",
+			"settings": {
+				"fontStyle": ""
+			}
+		},
 		{
-            // Invalid
-            "scope": "invalid",
-            "settings": {
-                "foreground": "#b13b00"
-            }
-        },
-        {
-            // Invalid deprecated
-            "scope": "invalid.deprecated",
-            "settings": {
-                "foreground": "#b13b00"
-            }
-        },
+			// Invalid
+			"scope": "invalid",
+			"settings": {
+				"foreground": "#b13b00"
+			}
+		},
 		{
-            // Diff (meta) header
-            "scope": [
-                "meta.diff",
-                "meta.diff.header"
-            ],
-            "settings": {
+			// Invalid deprecated
+			"scope": "invalid.deprecated",
+			"settings": {
+				"foreground": "#b13b00"
+			}
+		},
+		{
+			// Diff (meta) header
+			"scope": [
+				"meta.diff",
+				"meta.diff.header"
+			],
+			"settings": {
 				"fontStyle": "italic",
-                "foreground": "#ceb465"
-            }
-        },
-        {
-            // Markup deleted
-            "scope": "markup.deleted",
-            "settings": {
-                "foreground": "#3ca7ff"
-            }
-        },
-        {
-            // Markup updated
-            "scope": "markup.changed",
-            "settings": {
-                "foreground": "#3ca7ff"
-            }
-        },
-        {
-            // Markup inserted
-            "scope": "markup.inserted",
-            "settings": {
-                "foreground": "#3ca7ff"
-            }
-        },
+				"foreground": "#ceb465"
+			}
+		},
+		{
+			// Markup deleted
+			"scope": "markup.deleted",
+			"settings": {
+				"foreground": "#3ca7ff"
+			}
+		},
+		{
+			// Markup updated
+			"scope": "markup.changed",
+			"settings": {
+				"foreground": "#3ca7ff"
+			}
+		},
+		{
+			// Markup inserted
+			"scope": "markup.inserted",
+			"settings": {
+				"foreground": "#3ca7ff"
+			}
+		},
 		{
 			// Markup link
 			"scope": "markup.underline.link",
@@ -391,45 +390,45 @@
 			}
 		},
 		{
-            // Markup Quote
-            "scope": "markup.quote",
-            "settings": {
-                "foreground": "#22aa44"
-            }
-        },
-        {
-            // Markup Styling
-            "scope": [
-                "markup.bold",
-                "markup.italic"
-            ],
-            "settings": {
-                "foreground": "#aa663b"
-            }
-        },
+			// Markup Quote
+			"scope": "markup.quote",
+			"settings": {
+				"foreground": "#22aa44"
+			}
+		},
 		{
-            // Markup: Emphasis
-            "scope": "markup.italic",
-            "settings": {
-                "fontStyle": "italic"
-            }
-        },
-        {
-            // Markup Inline
-            "scope": "markup.inline.raw",
-            "settings": {
-                "foreground": "#aa663b"
-            }
-        },
-        {
-            //Markup Headings
-            "scope": [
-                "markup.heading",
-                "markup.heading.setext"
-            ],
-            "settings": {
-                "foreground": "#b13b00"
-            }
-        }
+			// Markup Styling
+			"scope": [
+				"markup.bold",
+				"markup.italic"
+			],
+			"settings": {
+				"foreground": "#aa663b"
+			}
+		},
+		{
+			// Markup: Emphasis
+			"scope": "markup.italic",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			// Markup Inline
+			"scope": "markup.inline.raw",
+			"settings": {
+				"foreground": "#aa663b"
+			}
+		},
+		{
+			//Markup Headings
+			"scope": [
+				"markup.heading",
+				"markup.heading.setext"
+			],
+			"settings": {
+				"foreground": "#b13b00"
+			}
+		}
 	]
 }
