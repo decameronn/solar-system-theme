@@ -2,8 +2,13 @@
 
 This file document the most important changes in the [project releases](https://github.com/decameronn/solar-system-theme/releases).
 
+## 2.3.3
+1. Fix critical bug with incorrect colors in Uranus Italic theme
+2. Fix critical bug with incorrect colors in Saturn Italic theme
+3. Small improvements in Uranus & Saturn themes
+
 ## 2.3.2
-1. New branch for Mercury development
+1. New branch for Mercury development (no new release)
 
 ## 2.3.1
 1. Release Candidate for Uranus Theme  
