@@ -47,7 +47,7 @@
 
     // Editor
     "editor.background": "#080808",
-    "editor.foreground": "#B1B1B0",
+    "editor.foreground": "#d7d7d5",
     "editor.findMatchHighlightBackground": "#ea5c0055",
     "editor.selectionBackground": "#264f78",
     "editorBracketMatch.background": "#0064001a",
@@ -193,7 +193,7 @@
       // Comment
       "scope": "comment",
       "settings": {
-        "foreground": "#FAFFFA"
+        "foreground": "#80809c" //e1e1e0
       }
     },
     {
@@ -203,14 +203,14 @@
         "comment.block.documentation"
       ],
       "settings": {
-        "foreground": "#FAFFFA"
+        "foreground": "#afafc0" //FAFFFA
       }
     },
     {
       // String
       "scope": "string",
       "settings": {
-        "foreground": "#a7a7a1"
+        "foreground": "#e2dce5"
       }
     },
     {
@@ -248,14 +248,14 @@
       // Storage
       "scope": "storage",
       "settings": {
-        "foreground": "#ff0000"
+        "foreground": "#FFF9F4"
       }
     },
     {
       // Storage type 
       "scope": "storage.type",
       "settings": {
-        "foreground": "#B1B1B0"
+        "foreground": "#b3c4d0" //dad3dd
       }
     },
     {
@@ -267,7 +267,7 @@
         "entity.name.scope-resolution"
       ],
       "settings": {
-        "foreground": "#B1B1B0"
+        "foreground": "#b0b0b1" //b0b0b1
       }
     },
     {
@@ -281,7 +281,7 @@
       // Function
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#B1B1B0"
+        "foreground": "#dbcce2"
       }
     },
     {
@@ -419,7 +419,7 @@
         "markup.heading.setext"
       ],
       "settings": {
-        "foreground": "#B1B1B0"
+        "foreground": "#b3c4d0"
       }
     }
   ]
