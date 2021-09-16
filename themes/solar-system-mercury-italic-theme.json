@@ -255,6 +255,7 @@
       // Storage type 
       "scope": "storage.type",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#b3c4d0"
       }
     },
@@ -274,6 +275,7 @@
       // Inherited class
       "scope": "entity.other.inherited-class",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#B1B1B0"
       }
     },
@@ -326,6 +328,7 @@
         "support.class"
       ],
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#B1B1B0"
       }
     },
@@ -357,6 +360,7 @@
         "meta.diff.header"
       ],
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#B1B1B0"
       }
     },
@@ -405,6 +409,13 @@
         "foreground": "#B1B1B0"
       }
     },
+    {
+			// Markup: Emphasis
+			"scope": "markup.italic",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
     {
       // Markup Inline
       "scope": "markup.inline.raw",

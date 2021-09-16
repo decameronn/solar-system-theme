@@ -7,7 +7,7 @@
 
 # Solar System Theme
 📌 This is Work In Progress! We would love to hear your [feedback](https://github.com/decameronn/solar-system-theme/issues)! 📌  
-📌 **NEWS:** __Uranus Theme Released!__ Please see Release Status down below. 📌  
+📌 **NEWS:** __Mercury Theme Released!__ Please see Release Status down below. 📌  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/decameron.solar-system-theme)
@@ -26,7 +26,8 @@
     </tr>
     <tr>
         <td>
-            A professional, hand-crafted theme for Visual Studio Code. Every planet of the Solar System has the color hand-picked, based on high quality, real life images, to reflect the color palette as accurately as possible. Great attention is paid to every detail for the most authentic experience.<br/>
+            A professional, hand-crafted theme for Visual Studio Code. Every planet of the Solar System has the color hand-picked, based on high quality, real life images, to reflect the color palette as accurately as possible. Great attention is paid to every detail for the most authentic experience.<br/> 
+            Whenever the case, tiny artistic brushes are applied for a more pleasant experience and better readability.<br/>
             We hope you'll enjoy it (as much as we do!). </a>
         </td>
     </tr>
@@ -114,8 +115,8 @@ Please note: The theme collection will be updated and you will have to reload VS
 <table width='65%' align='center'>
     <th colspan=4>Release Status</th>
     <tr colspan=4>
-        <td>Mercury</td><td>Planned</td>
-        <td>Venus</td><td>Planned</td>
+        <td>Mercury</td><td>Released</td>
+        <td>Venus</td><td>In work</td>
     </tr>
     <tr colspan=4>
         <td>Earth</td><td>Planned</td>

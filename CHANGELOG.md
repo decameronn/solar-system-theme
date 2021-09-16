@@ -2,6 +2,11 @@
 
 This file document the most important changes in the [project releases](https://github.com/decameronn/solar-system-theme/releases).
 
+## 2.4.0
+1. We are happy to announce the release of Mercury Theme - Enjoy!
+2. Update sample images to reflect the colors of each planet
+2. Fix small inconsistencies in Uranus palette
+
 ## 2.3.3
 1. Fix critical bug with incorrect colors in Uranus Italic theme
 2. Fix critical bug with incorrect colors in Saturn Italic theme
