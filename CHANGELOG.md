@@ -4,7 +4,7 @@ This file document the most important changes in the [project releases](https://
 
 ## 2.4.0
 1. We are happy to announce the release of Mercury Theme - Enjoy!
-2. Update assets to reflect the colors of each planet
+2. Update sample images to reflect the colors of each planet
 2. Fix small inconsistencies in Uranus palette
 
 ## 2.3.3
