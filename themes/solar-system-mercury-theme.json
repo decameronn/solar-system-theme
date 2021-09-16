@@ -248,7 +248,7 @@
       // Storage
       "scope": "storage",
       "settings": {
-        "foreground": "#B1B1B0"
+        "foreground": "#ff0000"
       }
     },
     {
