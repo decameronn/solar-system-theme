@@ -153,13 +153,11 @@ You can read more about the planetary system we all live in on [Wikipedia](https
 
 </div>
 
-### Welcome Screen
-![Welcome Screen](/images/samples/welcome-screen.png)
-### Javascript 
-![JS Code Sample](/images/samples/js.png)
-### Python 
-![Python Code Sample](/images/samples/python.png)
-### HTML 
-![HTML Code Sample](/images/samples/html.png)
-### CSS 
-![CSS Code Sample](/images/samples/css.png)
+### Mercury
+![Welcome Screen](/images/samples/mercury.png)
+### Jupiter 
+![JS Code Sample](/images/samples/jupiter.png)
+### Saturn 
+![Python Code Sample](/images/samples/saturn.png)
+### Uranus 
+![HTML Code Sample](/images/samples/uranus.png)
