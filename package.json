@@ -26,6 +26,11 @@
                 "path": "./themes/solar-system-mercury-italic-theme.json"
             },
             {
+                "label": "Solar System - Venus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/solar-system-venus-theme.json"
+            },
+            {
                 "label": "Solar System - Jupiter",
                 "uiTheme": "vs-dark",
                 "path": "./themes/solar-system-jupiter-theme.json"
