@@ -196,7 +196,7 @@
       // Comment
       "scope": "comment",
       "settings": {
-        "foreground": "#715832"
+        "foreground": "#806338" //715832
       }
     },
     {
@@ -367,7 +367,7 @@
       // Markup deleted
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#dac7aa"
+        "foreground": "#c69a80"
       }
     },
     {
@@ -381,7 +381,7 @@
       // Markup inserted
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#dac7aa"
+        "foreground": "#9c7944"
       }
     },
     {
