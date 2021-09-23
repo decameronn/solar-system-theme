@@ -161,3 +161,5 @@ You can read more about the planetary system we all live in on [Wikipedia](https
 ![Python Code Sample](/images/samples/saturn.png)
 ### Uranus 
 ![HTML Code Sample](/images/samples/uranus.png)
+### Venus
+![HTML Code Sample](/images/samples/venus.png)
