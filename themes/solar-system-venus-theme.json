@@ -8,7 +8,7 @@
     "activityBar.border": "#23221a",
     "activityBar.dropBorder": "#C4BFBC",
     "activityBar.foreground": "#C4BFBC",
-    "activityBar.inactiveForeground": "#5d6b88",
+    "activityBar.inactiveForeground": "#715832",
     "activityBarBadge.background": "#D4D4D3",
     "activityBarBadge.foreground": "#060606",
 
@@ -64,7 +64,7 @@
     "editorIndentGuide.activeBackground": "#707070",
     "editorIndentGuide.background": "#404040",
     "editorLineNumber.activeForeground": "#C4BFBC",
-    "editorLineNumber.foreground": "#5d6b88",
+    "editorLineNumber.foreground": "#715832",
     "editorLink.activeForeground": "#4e94ce",
     "editorMarkerNavigation.background": "#2d2d30",
     "editorMarkerNavigationError.background": "#d86508",
@@ -196,7 +196,7 @@
       // Comment
       "scope": "comment",
       "settings": {
-        "foreground": "#806338" //715832
+        "foreground": "#806338"
       }
     },
     {
@@ -213,14 +213,14 @@
       // String
       "scope": "string",
       "settings": {
-        "foreground": "#c5aa81" //c6aa80 aca89a
+        "foreground": "#c5aa81"
       }
     },
     {
       // Numeric constant
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#d1cfc7"  //c6aa80
+        "foreground": "#d1cfc7"
       }
     },
     {
@@ -298,7 +298,7 @@
       // Tag name
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#c1a171" //dac7aa
+        "foreground": "#c1a171"
       }
     },
     {
