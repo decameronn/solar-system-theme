@@ -213,7 +213,7 @@
       // String
       "scope": "string",
       "settings": {
-        "foreground": "#c6aa80"
+        "foreground": "#c5aa81" //c6aa80 aca89a
       }
     },
     {
@@ -298,7 +298,7 @@
       // Tag name
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#dac7aa"
+        "foreground": "#c1a171" //dac7aa
       }
     },
     {
@@ -319,7 +319,7 @@
       // Library constant
       "scope": "support.constant",
       "settings": {
-        "foreground": "#dac7aa"
+        "foreground": "#d1cfc7"
       }
     },
     {
@@ -329,7 +329,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#dac7aa"
+        "foreground": "#c8c5bc"
       }
     },
     {
