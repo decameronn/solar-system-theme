@@ -220,7 +220,7 @@
       // Numeric constant
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#c6aa80"
+        "foreground": "#d1cfc7"  //c6aa80
       }
     },
     {
