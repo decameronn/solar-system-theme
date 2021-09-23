@@ -2,6 +2,9 @@
 
 This file document the most important changes in the [project releases](https://github.com/decameronn/solar-system-theme/releases).
 
+## 2.5.0
+1. We are happy to announce the release of Venus Theme - Enjoy!
+
 ## 2.4.1
 Bugfix release (missing sample colors from main page)
 

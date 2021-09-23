@@ -7,7 +7,7 @@
 
 # Solar System Theme
 📌 This is Work In Progress! We would love to hear your [feedback](https://github.com/decameronn/solar-system-theme/issues)! 📌  
-📌 **NEWS:** __Mercury Theme Released!__ Please see Release Status down below. 📌  
+📌 **NEWS:** __Venus Theme Released!__ Please see Release Status down below. 📌  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/decameron.solar-system-theme)
@@ -116,10 +116,10 @@ Please note: The theme collection will be updated and you will have to reload VS
     <th colspan=4>Release Status</th>
     <tr colspan=4>
         <td>Mercury</td><td>Released</td>
-        <td>Venus</td><td>In work</td>
+        <td>Venus</td><td>Released</td>
     </tr>
     <tr colspan=4>
-        <td>Earth</td><td>Planned</td>
+        <td>Earth</td><td>In Work</td>
         <td>Mars</td><td>Planned</td>
     </tr>
     <tr colspan=4>
@@ -161,3 +161,5 @@ You can read more about the planetary system we all live in on [Wikipedia](https
 ![Python Code Sample](/images/samples/saturn.png)
 ### Uranus 
 ![HTML Code Sample](/images/samples/uranus.png)
+### Venus
+![HTML Code Sample](/images/samples/venus.png)

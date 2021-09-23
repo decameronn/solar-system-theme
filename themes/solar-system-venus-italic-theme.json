@@ -196,7 +196,7 @@
       // Comment
       "scope": "comment",
       "settings": {
-        "foreground": "#806338"
+        "foreground": "#806338" //715832
       }
     },
     {
@@ -213,14 +213,14 @@
       // String
       "scope": "string",
       "settings": {
-        "foreground": "#c5aa81"
+        "foreground": "#c5aa81" //c6aa80 aca89a
       }
     },
     {
       // Numeric constant
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#d1cfc7"
+        "foreground": "#d1cfc7"  //c6aa80
       }
     },
     {
@@ -258,6 +258,7 @@
       // Storage type 
       "scope": "storage.type",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#9c7944"
       }
     },
@@ -277,6 +278,7 @@
       // Inherited class
       "scope": "entity.other.inherited-class",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#dac7aa"
       }
     },
@@ -291,6 +293,7 @@
       // Function parameter (not argument)
       "scope": "variable.parameter",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#dac7aa"
       }
     },
@@ -298,7 +301,7 @@
       // Tag name
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#c1a171"
+        "foreground": "#c1a171" //dac7aa
       }
     },
     {
@@ -329,6 +332,7 @@
         "support.class"
       ],
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#c8c5bc"
       }
     },
@@ -360,6 +364,7 @@
         "meta.diff.header"
       ],
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#dac7aa"
       }
     },
@@ -408,6 +413,13 @@
         "foreground": "#dac7aa"
       }
     },
+    {
+			// Markup: Emphasis
+			"scope": "markup.italic",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
     {
       // Markup Inline
       "scope": "markup.inline.raw",
