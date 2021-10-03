@@ -213,7 +213,7 @@
       // String
       "scope": "string",
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#F0EEB5"
       }
     },
     {
@@ -244,21 +244,21 @@
       // Keywords
       "scope": "keyword",
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#9A7B5E"
       }
     },
     {
       // Storage
       "scope": "storage",
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#E7B88E"
       }
     },
     {
       // Storage type 
       "scope": "storage.type",
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#FFD19C"
       }
     },
     {
@@ -284,7 +284,7 @@
       // Function
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#7681DB"
       }
     },
     {
