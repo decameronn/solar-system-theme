@@ -7,8 +7,8 @@
     "activityBar.background": "#13162a",
     "activityBar.border": "#30372F",
     "activityBar.dropBorder": "#D3E0FA",
-    "activityBar.foreground": "#D3E0FA",
-    "activityBar.inactiveForeground": "#5277b7",
+    "activityBar.foreground": "#E7B88E",
+    "activityBar.inactiveForeground": "#975820", //5277b7
     "activityBarBadge.background": "#D4D4D3",
     "activityBarBadge.foreground": "#060606",
 
@@ -284,35 +284,35 @@
       // Function
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#7681DB"
+        "foreground": "#975820" //7681DB
       }
     },
     {
       // Function parameter (not argument)
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#7681DB" //D3E0FA
       }
     },
     {
       // Tag name
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#9A7B5E" //D3E0FA
       }
     },
     {
       // Tag attribute
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#975820" //D3E0FA
       }
     },
     {
       // Library function
       "scope": "support.function",
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#e88873" //D3E0FA
       }
     },
     {
