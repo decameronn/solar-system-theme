@@ -3,11 +3,11 @@
   "type": "dark",
   "colors": {
     // Activity bar
-    "activityBar.activeBorder": "#6183bd",
+    "activityBar.activeBorder": "#D3E0FA",
     "activityBar.background": "#13162a",
     "activityBar.border": "#30372F",
-    "activityBar.dropBorder": "#6183bd",
-    "activityBar.foreground": "#6183bd",
+    "activityBar.dropBorder": "#D3E0FA",
+    "activityBar.foreground": "#D3E0FA",
     "activityBar.inactiveForeground": "#5277b7",
     "activityBarBadge.background": "#D4D4D3",
     "activityBarBadge.foreground": "#060606",
@@ -43,7 +43,7 @@
     // Dropdown
     "dropdown.background": "#30372F",
     "dropdown.border": "#30372F",
-    "dropdown.foreground": "#6183bd",
+    "dropdown.foreground": "#D3E0FA",
 
     // Editor
     "editor.background": "#13162a", //0c121d
@@ -63,7 +63,7 @@
     "editorHoverWidget.statusBarBackground": "#2c2c2d",
     "editorIndentGuide.activeBackground": "#707070",
     "editorIndentGuide.background": "#404040",
-    "editorLineNumber.activeForeground": "#6183bd",
+    "editorLineNumber.activeForeground": "#D3E0FA",
     "editorLineNumber.foreground": "#5277b7",
     "editorLink.activeForeground": "#4e94ce",
     "editorMarkerNavigation.background": "#2d2d30",
@@ -84,7 +84,7 @@
 
     // Input
     "input.background": "#292928",
-    "input.foreground": "#6183bd",
+    "input.foreground": "#D3E0FA",
     "input.placeholderForeground": "#a6a6a6",
     "inputOption.activeBackground": "#007fd466",
     "inputOption.activeBorder": "#DCD7D300",
@@ -118,11 +118,11 @@
     // Panel
     "panel.background": "#13162a",
     "panel.border": "#80808059",
-    "panel.dropBorder": "#6183bd",
+    "panel.dropBorder": "#D3E0FA",
     "panelSection.border": "#80808059",
     "panelSection.dropBackground": "#53595d80",
-    "panelTitle.activeBorder": "#6183bd",
-    "panelTitle.activeForeground": "#6183bd",
+    "panelTitle.activeBorder": "#D3E0FA",
+    "panelTitle.activeForeground": "#D3E0FA",
     "panelTitle.inactiveForeground": "#5d6b88",
 
     // Peek View
@@ -140,7 +140,7 @@
 
     // Quick input
     "quickInput.background": "#30372F",
-    "quickInput.foreground": "#6183bd",
+    "quickInput.foreground": "#D3E0FA",
     "quickInputList.focusBackground": "#292928",
     "quickInputList.focusForeground": "#ffffff",
     "quickInputTitle.background": "#ffffff1b",
@@ -154,10 +154,10 @@
     "sideBar.background": "#13162a", //13162a
     "sideBar.border": "#30372F",
     "sideBar.dropBackground": "#53595d80",
-    "sideBar.foreground": "#6183bd",
+    "sideBar.foreground": "#D3E0FA", //6183bd
     "sideBarSectionHeader.background": "#00000000",
     "sideBarSectionHeader.border": "#cccccc33",
-    "sideBarSectionHeader.foreground": "#6183bd",
+    "sideBarSectionHeader.foreground": "#D3E0FA",
 
     // Statusbar
     "statusBar.background": "#30372F", //18243a 333a71 262d54
