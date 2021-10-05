@@ -189,7 +189,8 @@
     "titleBar.activeBackground": "#30372F",
     "titleBar.activeForeground": "#cccccc",
     "titleBar.inactiveBackground": "#30372F99",
-    "titleBar.inactiveForeground": "#cccccc99"
+    "titleBar.inactiveForeground": "#cccccc99",
+    "titleBar.border": "#13162A"
   },
   "tokenColors": [
     {
@@ -270,7 +271,7 @@
         "entity.name.scope-resolution"
       ],
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#a09b18" //D3E0FA
       }
     },
     {
