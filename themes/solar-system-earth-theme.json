@@ -413,7 +413,7 @@
       // Markup Inline
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#e7b88e"
       }
     },
     {
@@ -423,7 +423,7 @@
         "markup.heading.setext"
       ],
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#e88873"
       }
     }
   ]
