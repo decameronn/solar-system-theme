@@ -4,7 +4,7 @@
   "colors": {
     // Activity bar
     "activityBar.activeBorder": "#D3E0FA",
-    "activityBar.background": "#13162a",
+    "activityBar.background": "#00243d",
     "activityBar.border": "#3d4a30",
     "activityBar.dropBorder": "#D3E0FA",
     "activityBar.foreground": "#97c3a0", //E7B88E
@@ -20,7 +20,7 @@
 
     // Breadcrumb
     "breadcrumb.activeSelectionForeground": "#e0e0e0",
-    "breadcrumb.background": "#13162a",
+    "breadcrumb.background": "#00243d",
     "breadcrumb.focusForeground": "#e0e0e0",
     "breadcrumb.foreground": "#cccccccc",
     "breadcrumbPicker.background": "#3d4a30",
@@ -46,7 +46,7 @@
     "dropdown.foreground": "#D3E0FA",
 
     // Editor
-    "editor.background": "#13162a", //0c121d
+    "editor.background": "#00243d", //0c121d 13162a
     "editor.foreground": "#D3E0FA",
     "editor.findMatchHighlightBackground": "#ea5c0055",
     "editor.selectionBackground": "#264f78",
@@ -55,7 +55,7 @@
     "editorCursor.foreground": "#aeafad",
     "editorGroup.border": "#444444",
     "editorGroup.dropBackground": "#53595d80",
-    "editorGroupHeader.noTabsBackground": "#13162a",
+    "editorGroupHeader.noTabsBackground": "#00243d",
     "editorGroupHeader.tabsBackground": "#3d4a30",
     "editorHoverWidget.background": "#3d4a30",
     "editorHoverWidget.border": "#454545",
@@ -116,7 +116,7 @@
     "minimap.warningHighlight": "#cca700",
 
     // Panel
-    "panel.background": "#13162a",
+    "panel.background": "#00243d",
     "panel.border": "#80808059",
     "panel.dropBorder": "#D3E0FA",
     "panelSection.border": "#80808059",
@@ -151,7 +151,7 @@
     "scrollbarSlider.hoverBackground": "#223d53",
 
     // Sidebar
-    "sideBar.background": "#13162a", //13162a
+    "sideBar.background": "#00243d", //00243d
     "sideBar.border": "#3d4a30",
     "sideBar.dropBackground": "#53595d80",
     "sideBar.foreground": "#D3E0FA", //6183bd
@@ -160,7 +160,7 @@
     "sideBarSectionHeader.foreground": "#D3E0FA",
 
     // Statusbar
-    "statusBar.background": "#3d4a30", //18243a 333a71 262d54 3d4a30
+    "statusBar.background": "#3d4a30", //18243a 333a71 262d54 30372F
     "statusBar.debuggingBackground": "#cc6633",
     "statusBar.debuggingForeground": "#ffffff",
     "statusBar.foreground": "#ffffff",
@@ -179,7 +179,7 @@
     // Tab
     "tab.activeBackground": "#3d4a30",
     "tab.activeForeground": "#ffffff",
-    "tab.inactiveBackground": "#13162a",
+    "tab.inactiveBackground": "#00243d",
     "tab.inactiveForeground": "#ffffff80",
 
     // Terminal
@@ -190,7 +190,7 @@
     "titleBar.activeForeground": "#cccccc",
     "titleBar.inactiveBackground": "#3d4a3099",
     "titleBar.inactiveForeground": "#cccccc99",
-    "titleBar.border": "#13162A"
+    "titleBar.border": "#00243d"
   },
   "tokenColors": [
     {
