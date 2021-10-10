@@ -83,7 +83,7 @@
     "icon.foreground": "#c5c5c5",
 
     // Input
-    "input.background": "#003c66",  //292928
+    "input.background": "#001829",  //292928 003c66
     "input.foreground": "#D3E0FA",
     "input.placeholderForeground": "#a6a6a6",
     "inputOption.activeBackground": "#007fd466",
@@ -106,7 +106,7 @@
     "list.warningForeground": "#DCD7D3",
     "list.dropBackground": "#383b3d",
     "list.highlightForeground": "#18a3ff",
-    "list.hoverBackground": "#2a2d2e",
+    "list.hoverBackground": "#003c66", //2a2d2e
     "list.inactiveSelectionBackground": "#37373d",
 
     // Minimap
