@@ -41,7 +41,7 @@
     "diffEditor.removedTextBackground": "#ff000033",
 
     // Dropdown
-    "dropdown.background": "#3d4a30",
+    "dropdown.background": "#00243D", //3d4a30
     "dropdown.border": "#3d4a30",
     "dropdown.foreground": "#D3E0FA",
 
@@ -83,7 +83,7 @@
     "icon.foreground": "#c5c5c5",
 
     // Input
-    "input.background": "#292928",
+    "input.background": "#003c66",  //292928
     "input.foreground": "#D3E0FA",
     "input.placeholderForeground": "#a6a6a6",
     "inputOption.activeBackground": "#007fd466",
@@ -100,7 +100,7 @@
     "gitDecoration.modifiedResourceForeground": "#ecd8c8",
 
     // List
-    "list.activeSelectionBackground": "#292928",
+    "list.activeSelectionBackground": "#003c66", //292928
     "list.activeSelectionForeground": "#ffffff",
     "list.errorForeground": "#DCD7D3",
     "list.warningForeground": "#DCD7D3",
@@ -139,9 +139,9 @@
     "progressBar.background": "#e4d1e4",
 
     // Quick input
-    "quickInput.background": "#3d4a30",
+    "quickInput.background": "#00243D", //3d4a30
     "quickInput.foreground": "#D3E0FA",
-    "quickInputList.focusBackground": "#292928",
+    "quickInputList.focusBackground": "#003c66",  //292928
     "quickInputList.focusForeground": "#ffffff",
     "quickInputTitle.background": "#ffffff1b",
 
