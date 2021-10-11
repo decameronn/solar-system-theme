@@ -245,7 +245,7 @@
       // Keywords
       "scope": "keyword",
       "settings": {
-        "foreground": "#9A7B5E" //9A7B5E
+        "foreground": "#B1C151" //9A7B5E
       }
     },
     {
