@@ -122,7 +122,7 @@
     "panelSection.border": "#80808059",
     "panelSection.dropBackground": "#53595d80",
     "panelTitle.activeBorder": "#D3E0FA",
-    "panelTitle.activeForeground": "#D3E0FA",
+    "panelTitle.activeForeground": "#D3E0FA",  //D3E0FA
     "panelTitle.inactiveForeground": "#5d6b88",
 
     // Peek View
@@ -245,7 +245,7 @@
       // Keywords
       "scope": "keyword",
       "settings": {
-        "foreground": "#9A7B5E"
+        "foreground": "#5CB0F9" //9A7B5E B1C151 C3B37E
       }
     },
     {
@@ -271,7 +271,7 @@
         "entity.name.scope-resolution"
       ],
       "settings": {
-        "foreground": "#a09b18" //D3E0FA
+        "foreground": "#c3bc83" //D3E0FA a09b18
       }
     },
     {
@@ -285,14 +285,14 @@
       // Function
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#975820" //7681DB
+        "foreground": "#e88873" //7681DB 975820 b16443
       }
     },
     {
       // Function parameter (not argument)
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#7681DB" //D3E0FA
+        "foreground": "#D9CD68" //D3E0FA 7681DB D9CD68
       }
     },
     {
