@@ -271,7 +271,7 @@
         "entity.name.scope-resolution"
       ],
       "settings": {
-        "foreground": "#a09b18" //D3E0FA
+        "foreground": "#c3bc83" //D3E0FA a09b18
       }
     },
     {
@@ -285,14 +285,14 @@
       // Function
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#975820" //7681DB
+        "foreground": "#e88873" //7681DB 975820 b16443
       }
     },
     {
       // Function parameter (not argument)
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#7681DB" //D3E0FA
+        "foreground": "#7681DB" //D3E0FA 7681DB
       }
     },
     {
