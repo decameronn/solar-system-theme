@@ -245,7 +245,7 @@
       // Keywords
       "scope": "keyword",
       "settings": {
-        "foreground": "#9A7B5E"
+        "foreground": "#9A7B5E" //9A7B5E
       }
     },
     {
@@ -292,7 +292,7 @@
       // Function parameter (not argument)
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#7681DB" //D3E0FA 7681DB
+        "foreground": "#D9CD68" //D3E0FA 7681DB
       }
     },
     {
