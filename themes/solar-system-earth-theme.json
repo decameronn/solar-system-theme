@@ -122,7 +122,7 @@
     "panelSection.border": "#80808059",
     "panelSection.dropBackground": "#53595d80",
     "panelTitle.activeBorder": "#D3E0FA",
-    "panelTitle.activeForeground": "#D3E0FA",
+    "panelTitle.activeForeground": "#D3E0FA",  //D3E0FA
     "panelTitle.inactiveForeground": "#5d6b88",
 
     // Peek View
@@ -245,7 +245,7 @@
       // Keywords
       "scope": "keyword",
       "settings": {
-        "foreground": "#B1C151" //9A7B5E
+        "foreground": "#5CB0F9" //9A7B5E B1C151 C3B37E
       }
     },
     {
@@ -292,7 +292,7 @@
       // Function parameter (not argument)
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#D9CD68" //D3E0FA 7681DB
+        "foreground": "#D9CD68" //D3E0FA 7681DB D9CD68
       }
     },
     {
