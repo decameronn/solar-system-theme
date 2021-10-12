@@ -8,7 +8,7 @@
     "activityBar.border": "#3d4a30",
     "activityBar.dropBorder": "#D3E0FA",
     "activityBar.foreground": "#97c3a0", //E7B88E
-    "activityBar.inactiveForeground": "#2d4e33", //5277b7 975820
+    "activityBar.inactiveForeground": "#528e5d", //5277b7 975820
     "activityBarBadge.background": "#D4D4D3",
     "activityBarBadge.foreground": "#060606",
 
@@ -107,7 +107,7 @@
     "list.dropBackground": "#383b3d",
     "list.highlightForeground": "#18a3ff",
     "list.hoverBackground": "#003c66", //2a2d2e
-    "list.inactiveSelectionBackground": "#37373d",
+    "list.inactiveSelectionBackground": "#003052", //37373d
 
     // Minimap
     "minimap.errorHighlight": "#ff1212b3",
@@ -344,14 +344,14 @@
       // Invalid
       "scope": "invalid",
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#e88873"
       }
     },
     {
       // Invalid deprecated
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#eb9784"
       }
     },
     {
@@ -389,7 +389,7 @@
       // Markup link
       "scope": "markup.underline.link",
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#5CB0F9"
       }
     },
     {
