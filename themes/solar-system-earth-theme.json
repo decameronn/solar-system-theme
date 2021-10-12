@@ -330,7 +330,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#fcfced" //D3E0FA css class & other
       }
     },
     {
