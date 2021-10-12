@@ -147,8 +147,8 @@
 
     // Scrollbar
     "scrollbarSlider.activeBackground": "#223d53",
-    "scrollbarSlider.background": "#474747",
-    "scrollbarSlider.hoverBackground": "#223d53",
+    "scrollbarSlider.background": "#003052", //474747
+    "scrollbarSlider.hoverBackground": "#003c66", //223d53
 
     // Sidebar
     "sideBar.background": "#00243d", //00243d
