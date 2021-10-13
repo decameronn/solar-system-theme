@@ -42,7 +42,7 @@
 
     // Dropdown
     "dropdown.background": "#00243D", //3d4a30
-    "dropdown.border": "#3d4a30",
+    "dropdown.border": "#fcfced", //3d4a30
     "dropdown.foreground": "#D3E0FA",
 
     // Editor
@@ -56,7 +56,7 @@
     "editorGroup.border": "#444444",
     "editorGroup.dropBackground": "#53595d80",
     "editorGroupHeader.noTabsBackground": "#00243d",
-    "editorGroupHeader.tabsBackground": "#3d4a30",
+    "editorGroupHeader.tabsBackground": "#00243d", //3d4a30
     "editorHoverWidget.background": "#3d4a30",
     "editorHoverWidget.border": "#454545",
     "editorHoverWidget.foreground": "#cccccc",
@@ -179,7 +179,7 @@
     // Tab
     "tab.activeBackground": "#3d4a30",
     "tab.activeForeground": "#ffffff",
-    "tab.inactiveBackground": "#00243d",
+    "tab.inactiveBackground": "#3d4a3090",
     "tab.inactiveForeground": "#ffffff80",
 
     // Terminal
@@ -188,7 +188,7 @@
     // Title Bar
     "titleBar.activeBackground": "#3d4a30",
     "titleBar.activeForeground": "#cccccc",
-    "titleBar.inactiveBackground": "#3d4a3099",
+    "titleBar.inactiveBackground": "#3d4a3090",
     "titleBar.inactiveForeground": "#cccccc99",
     "titleBar.border": "#00243d"
   },
@@ -368,14 +368,14 @@
       // Markup deleted
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#eb9784"
       }
     },
     {
       // Markup updated
       "scope": "markup.changed",
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#e88873"
       }
     },
     {
