@@ -42,7 +42,7 @@
 
     // Dropdown
     "dropdown.background": "#00243D", //3d4a30
-    "dropdown.border": "#3d4a30",
+    "dropdown.border": "#fcfced", //3d4a30
     "dropdown.foreground": "#D3E0FA",
 
     // Editor
@@ -368,14 +368,14 @@
       // Markup deleted
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#eb9784"
       }
     },
     {
       // Markup updated
       "scope": "markup.changed",
       "settings": {
-        "foreground": "#D3E0FA"
+        "foreground": "#e88873"
       }
     },
     {
