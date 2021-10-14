@@ -7,7 +7,7 @@
 
 # Solar System Theme
 📌 This is Work In Progress! We would love to hear your [feedback](https://github.com/decameronn/solar-system-theme/issues)! 📌  
-📌 **NEWS:** __Venus Theme Released!__ Please see Release Status down below. 📌  
+📌 **NEWS:** __Earth Theme Released!__ Please see Release Status down below. 📌  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/decameron.solar-system-theme)
@@ -89,7 +89,7 @@ We recommend the following settings for the best experience, especially if you h
 "workbench.productIconTheme": "fluent-icons",
 "editor.fontFamily": "'Cascadia Code Light', 'Jetbrains Mono', 'Fira Code', monospace",
 "terminal.integrated.fontFamily": "'Cascadia Code Light', 'Jetbrains Mono', monospace",
-"editor.fontSize": 15,
+"editor.fontSize": 16,
 "editor.fontLigatures": true,
 "terminal.integrated.fontSize": 14,
 "terminal.integrated.cursorStyle": "line",
@@ -119,8 +119,8 @@ Please note: The theme collection will be updated and you will have to reload VS
         <td>Venus</td><td>Released</td>
     </tr>
     <tr colspan=4>
-        <td>Earth</td><td>In Work</td>
-        <td>Mars</td><td>Planned</td>
+        <td>Earth</td><td>Released</td>
+        <td>Mars</td><td>In work</td>
     </tr>
     <tr colspan=4>
         <td>Jupiter</td><td>Released</td>
@@ -163,3 +163,5 @@ You can read more about the planetary system we all live in on [Wikipedia](https
 ![HTML Code Sample](/images/samples/uranus.png)
 ### Venus
 ![HTML Code Sample](/images/samples/venus.png)
+### Earth
+![HTML Code Sample](/images/samples/earth.png)

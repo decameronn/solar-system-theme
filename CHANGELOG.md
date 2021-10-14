@@ -2,6 +2,11 @@
 
 This file document the most important changes in the [project releases](https://github.com/decameronn/solar-system-theme/releases).
 
+## 2.6.0
+1. We are happy to announce the release of Earth Theme - Enjoy!  
+2. Fix small inconsistencies in Readme file  
+3. Fix incoherent color in Jupiter Italic theme  
+
 ## 2.5.0
 1. We are happy to announce the release of Venus Theme - Enjoy!
 
