@@ -36,15 +36,20 @@
                 "path": "./themes/solar-system-venus-italic-theme.json"
             },
             {
-              "label": "Solar System - Earth",
-              "uiTheme": "vs-dark",
-              "path": "./themes/solar-system-earth-theme.json"
+                "label": "Solar System - Earth",
+                "uiTheme": "vs-dark",
+                "path": "./themes/solar-system-earth-theme.json"
             },
             {
                 "label": "Solar System - Earth Italic",
                 "uiTheme": "vs-dark",
                 "path": "./themes/solar-system-earth-italic-theme.json"
-              },
+            },
+            {
+                "label": "Solar System - Mars",
+                "uiTheme": "vs-dark",
+                "path": "./themes/solar-system-mars-theme.json"
+            },
             {
                 "label": "Solar System - Jupiter",
                 "uiTheme": "vs-dark",
@@ -78,8 +83,17 @@
         ]
     },
     "keywords": [
-        "solar system", "jupiter", "saturn", "uranus", "mercury", 
-        "theme", "dark", "italic", "planet", 
+        "solar system",
+        "jupiter",
+        "saturn",
+        "uranus",
+        "mercury",
+        "earth",
+        "mars",
+        "theme",
+        "dark",
+        "italic",
+        "planet",
         "decameron"
     ],
     "repository": {
