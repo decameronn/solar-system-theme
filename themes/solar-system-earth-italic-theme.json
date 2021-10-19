@@ -13,9 +13,9 @@
     "activityBarBadge.foreground": "#060606",
 
     // Badge and Banner
-    "badge.background": "#D4D4D3",
+    "badge.background": "#D97F62",
     "badge.foreground": "#060606",
-    "banner.background": "#D4D4D3",
+    "banner.background": "#D97F62",
     "banner.foreground": "#060606",
 
     // Breadcrumb
@@ -26,7 +26,7 @@
     "breadcrumbPicker.background": "#653d2a",
 
     // Button
-    "button.background": "#D4D4D3",
+    "button.background": "#D97F62", //D4D4D3
     "button.foreground": "#060606",
 
     // Debugger
@@ -105,7 +105,7 @@
     "list.errorForeground": "#DCD7D3",
     "list.warningForeground": "#DCD7D3",
     "list.dropBackground": "#383b3d",
-    "list.highlightForeground": "#18a3ff",
+    "list.highlightForeground": "#814e36",  //18a3ff
     "list.hoverBackground": "#90573c",  //003c66
     "list.inactiveSelectionBackground": "#814e36",  //003052
 
@@ -146,9 +146,9 @@
     "quickInputTitle.background": "#ffffff1b",
 
     // Scrollbar
-    "scrollbarSlider.activeBackground": "#223d53",
+    "scrollbarSlider.activeBackground": "#734530", //223d53
     "scrollbarSlider.background": "#90583c",
-    "scrollbarSlider.hoverBackground": "#003c66",
+    "scrollbarSlider.hoverBackground": "#814e36", //003c66
 
     // Sidebar
     "sideBar.background": "#2b1a12",
