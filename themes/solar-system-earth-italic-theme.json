@@ -7,9 +7,9 @@
     "activityBar.background": "#2b1a12",
     "activityBar.border": "#653d2a",
     "activityBar.dropBorder": "#ECE4CA",
-    "activityBar.foreground": "#97c3a0",
-    "activityBar.inactiveForeground": "#528e5d",
-    "activityBarBadge.background": "#D4D4D3",
+    "activityBar.foreground": "#D97F62", //97c3a0
+    "activityBar.inactiveForeground": "#653d2a", //528e5d
+    "activityBarBadge.background": "#D97F62",  //D4D4D3
     "activityBarBadge.foreground": "#060606",
 
     // Badge and Banner
@@ -123,7 +123,7 @@
     "panelSection.dropBackground": "#53595d80",
     "panelTitle.activeBorder": "#ECE4CA",
     "panelTitle.activeForeground": "#ECE4CA",
-    "panelTitle.inactiveForeground": "#5d6b88",
+    "panelTitle.inactiveForeground": "#d18616", // terminal "tabs"  5d6b88
 
     // Peek View
     "peekView.border": "#DCD7D3",
