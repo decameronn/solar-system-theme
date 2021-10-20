@@ -123,7 +123,7 @@
     "panelSection.dropBackground": "#53595d80",
     "panelTitle.activeBorder": "#ECE4CA",
     "panelTitle.activeForeground": "#ECE4CA",
-    "panelTitle.inactiveForeground": "#5d6b88",
+    "panelTitle.inactiveForeground": "#d18616", // terminal "tabs"  5d6b88
 
     // Peek View
     "peekView.border": "#DCD7D3",
