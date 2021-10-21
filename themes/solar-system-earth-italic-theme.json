@@ -197,7 +197,7 @@
       // Comment
       "scope": "comment",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#44839c"
       }
     },
     {
@@ -207,28 +207,28 @@
         "comment.block.documentation"
       ],
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#4b8faa"
       }
     },
     {
       // String
       "scope": "string",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#dfd096"
       }
     },
     {
       // Numeric constant
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#964b0d"
       }
     },
     {
       // Built-in constants
       "scope": "constant.language",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#964b0d"
       }
     },
     {
@@ -238,7 +238,7 @@
         "constant.other"
       ],
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#964b0d"
       }
     },
     {
@@ -320,7 +320,7 @@
       // Library constant
       "scope": "support.constant",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#964b0d"
       }
     },
     {
