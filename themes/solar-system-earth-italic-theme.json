@@ -245,14 +245,14 @@
       // Keywords
       "scope": "keyword",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#ed8531"
       }
     },
     {
       // Storage
       "scope": "storage",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#f5bd8e"
       }
     },
     {
