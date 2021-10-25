@@ -285,7 +285,7 @@
       // Function
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#cc5514"
+        "foreground": "#df5c16"
       }
     },
     {
@@ -313,7 +313,7 @@
       // Library function
       "scope": "support.function",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#cc5514"
       }
     },
     {
