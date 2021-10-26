@@ -271,14 +271,14 @@
         "entity.name.scope-resolution"
       ],
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#953e0f"
       }
     },
     {
       // Inherited class
       "scope": "entity.other.inherited-class",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#df5c16" //df5c16
       }
     },
     {
@@ -292,7 +292,7 @@
       // Function parameter (not argument)
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#f5bd8e"
       }
     },
     {
