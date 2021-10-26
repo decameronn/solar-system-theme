@@ -47,7 +47,7 @@
 
     // Editor
     "editor.background": "#2b1a12",
-    "editor.foreground": "#e4d9b4", //ECE4CA ecddc1
+    "editor.foreground": "#e4d9b4", //ECE4CA ead4ae 
     "editor.findMatchHighlightBackground": "#ea5c0055",
     "editor.selectionBackground": "#264f78",
     "editorBracketMatch.background": "#0064001a",
@@ -214,7 +214,7 @@
       // String
       "scope": "string",
       "settings": {
-        "foreground": "#dfd096"
+        "foreground": "#FFD685" //dfd096
       }
     },
     {
@@ -299,14 +299,14 @@
       // Tag name
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#a6643d"
       }
     },
     {
       // Tag attribute
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#ed8531"
       }
     },
     {
@@ -344,14 +344,14 @@
       // Invalid
       "scope": "invalid",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#df5c16"
       }
     },
     {
       // Invalid deprecated
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#cc5514"
       }
     },
     {
@@ -368,7 +368,7 @@
       // Markup deleted
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#cc5514"
       }
     },
     {
@@ -389,14 +389,14 @@
       // Markup link
       "scope": "markup.underline.link",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#cc5514"
       }
     },
     {
       // Markup Quote
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#964b0d"
       }
     },
     {
@@ -423,7 +423,7 @@
         "markup.heading.setext"
       ],
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#df5c16"
       }
     }
   ]
