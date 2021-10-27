@@ -197,7 +197,7 @@
       // Comment
       "scope": "comment",
       "settings": {
-        "foreground": "#44839c"
+        "foreground": "#ffb41f"  //44839c f5a300
       }
     },
     {
@@ -207,14 +207,14 @@
         "comment.block.documentation"
       ],
       "settings": {
-        "foreground": "#4b8faa"
+        "foreground": "#ffbb33"  //4b8faa
       }
     },
     {
       // String
       "scope": "string",
       "settings": {
-        "foreground": "#FFD685" //dfd096
+        "foreground": "#ffdd99" //dfd096 FFD685
       }
     },
     {
@@ -413,7 +413,7 @@
       // Markup Inline
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#964b0d"
       }
     },
     {
