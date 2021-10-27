@@ -214,7 +214,7 @@
       // String
       "scope": "string",
       "settings": {
-        "foreground": "#FFD685" //dfd096
+        "foreground": "#ffdd99" //dfd096 FFD685
       }
     },
     {
