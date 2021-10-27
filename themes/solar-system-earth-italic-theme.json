@@ -197,7 +197,7 @@
       // Comment
       "scope": "comment",
       "settings": {
-        "foreground": "#44839c"
+        "foreground": "#f5a300"  //44839c
       }
     },
     {
@@ -207,7 +207,7 @@
         "comment.block.documentation"
       ],
       "settings": {
-        "foreground": "#4b8faa"
+        "foreground": "#ffb41f"  //4b8faa
       }
     },
     {
@@ -413,7 +413,7 @@
       // Markup Inline
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#ECE4CA"
+        "foreground": "#964b0d"
       }
     },
     {
