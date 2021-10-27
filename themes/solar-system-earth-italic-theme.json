@@ -197,7 +197,7 @@
       // Comment
       "scope": "comment",
       "settings": {
-        "foreground": "#f5a300"  //44839c
+        "foreground": "#ffb41f"  //44839c f5a300
       }
     },
     {
@@ -207,7 +207,7 @@
         "comment.block.documentation"
       ],
       "settings": {
-        "foreground": "#ffb41f"  //4b8faa
+        "foreground": "#ffbb33"  //4b8faa
       }
     },
     {
