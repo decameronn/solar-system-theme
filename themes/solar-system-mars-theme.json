@@ -173,7 +173,7 @@
     "statusBarItem.prominentBackground": "#00000080",
     "statusBarItem.prominentForeground": "#ffffff",
     "statusBarItem.prominentHoverBackground": "#0000004d",
-    "statusBarItem.remoteBackground": "#5592C6",
+    "statusBarItem.remoteBackground": "#df5c16",
     "statusBarItem.remoteForeground": "#ffffff",
 
     // Tab
