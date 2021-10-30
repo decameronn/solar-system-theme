@@ -7,7 +7,7 @@
 
 # Solar System Theme
 📌 This is Work In Progress! We would love to hear your [feedback](https://github.com/decameronn/solar-system-theme/issues)! 📌  
-📌 **NEWS:** __Earth Theme Released!__ Please see Release Status down below. 📌  
+📌 **NEWS:** __Mars Theme Released!__ Please see Release Status down below. 📌  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/decameron.solar-system-theme)
@@ -120,7 +120,7 @@ Please note: The theme collection will be updated and you will have to reload VS
     </tr>
     <tr colspan=4>
         <td>Earth</td><td>Released</td>
-        <td>Mars</td><td>In work</td>
+        <td>Mars</td><td>Released</td>
     </tr>
     <tr colspan=4>
         <td>Jupiter</td><td>Released</td>
@@ -128,7 +128,7 @@ Please note: The theme collection will be updated and you will have to reload VS
     </tr>
     <tr colspan=4>
         <td>Uranus</td><td>Released</td>
-        <td>Neptune</td><td>Planned</td>
+        <td>Neptune</td><td>In Work</td>
     </tr>
 </table>  
 
@@ -154,14 +154,16 @@ You can read more about the planetary system we all live in on [Wikipedia](https
 </div>
 
 ### Mercury
-![Welcome Screen](/images/samples/mercury.png)
-### Jupiter 
-![JS Code Sample](/images/samples/jupiter.png)
-### Saturn 
-![Python Code Sample](/images/samples/saturn.png)
-### Uranus 
-![HTML Code Sample](/images/samples/uranus.png)
+![Mercury](/images/samples/mercury.png)
 ### Venus
-![HTML Code Sample](/images/samples/venus.png)
+![Venus](/images/samples/venus.png)
 ### Earth
-![HTML Code Sample](/images/samples/earth.png)
+![Earth](/images/samples/earth.png)
+### Mars
+![Mars](/images/samples/mars.png)
+### Jupiter 
+![Jupiter](/images/samples/jupiter.png)
+### Saturn 
+![Saturn](/images/samples/saturn.png)
+### Uranus 
+![Uranus](/images/samples/uranus.png)

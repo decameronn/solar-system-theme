@@ -2,6 +2,10 @@
 
 This file document the most important changes in the [project releases](https://github.com/decameronn/solar-system-theme/releases).
 
+## 2.7.0
+1. We are happy to announce the release of Mars Theme - Enjoy!  
+3. Fix incorrect italic type in Earth theme
+
 ## 2.6.0
 1. We are happy to announce the release of Earth Theme - Enjoy!  
 2. Fix small inconsistencies in Readme file  
