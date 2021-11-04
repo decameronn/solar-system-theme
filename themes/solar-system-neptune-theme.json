@@ -63,8 +63,8 @@
     "editorHoverWidget.statusBarBackground": "#2c2c2d",
     "editorIndentGuide.activeBackground": "#707070",
     "editorIndentGuide.background": "#404040",
-    "editorLineNumber.activeForeground": "#d97f62",
-    "editorLineNumber.foreground": "#673D2F",
+    "editorLineNumber.activeForeground": "#9ac0fe", //d97f62
+    "editorLineNumber.foreground": "#3582fd",  //673D2F
     "editorLink.activeForeground": "#4e94ce",
     "editorMarkerNavigation.background": "#2d2d30",
     "editorMarkerNavigationError.background": "#d86508",
