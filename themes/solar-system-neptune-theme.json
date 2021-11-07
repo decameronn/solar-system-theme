@@ -7,15 +7,15 @@
     "activityBar.background": "#01245c",
     "activityBar.border": "#5d9bfd",
     "activityBar.dropBorder": "#ece4ca",
-    "activityBar.foreground": "#d97f62",
+    "activityBar.foreground": "#9ac0fe",  //d97f62
     "activityBar.inactiveForeground": "#5d9bfd",
-    "activityBarBadge.background": "#d97f62",
+    "activityBarBadge.background": "#5d9bfd",
     "activityBarBadge.foreground": "#060606",
 
     // Badge and Banner
-    "badge.background": "#d97f62",
+    "badge.background": "#5d9bfd",
     "badge.foreground": "#060606",
-    "banner.background": "#d97f62",
+    "banner.background": "#5d9bfd",
     "banner.foreground": "#060606",
 
     // Breadcrumb
@@ -26,7 +26,7 @@
     "breadcrumbPicker.background": "#5d9bfd",
 
     // Button
-    "button.background": "#d97f62",
+    "button.background": "#5d9bfd",
     "button.foreground": "#060606",
 
     // Debugger
@@ -63,7 +63,7 @@
     "editorHoverWidget.statusBarBackground": "#2c2c2d",
     "editorIndentGuide.activeBackground": "#707070",
     "editorIndentGuide.background": "#404040",
-    "editorLineNumber.activeForeground": "#5d9bfd", //d97f62
+    "editorLineNumber.activeForeground": "#5d9bfd", //5d9bfd
     "editorLineNumber.foreground": "#3582fd",  //673D2F
     "editorLink.activeForeground": "#4e94ce",
     "editorMarkerNavigation.background": "#2d2d30",
@@ -105,9 +105,9 @@
     "list.errorForeground": "#dcd7d3",
     "list.warningForeground": "#dcd7d3",
     "list.dropBackground": "#383b3d",
-    "list.highlightForeground": "#814e36",
+    "list.highlightForeground": "#0247b6",
     "list.hoverBackground": "#90573c",
-    "list.inactiveSelectionBackground": "#814e36",
+    "list.inactiveSelectionBackground": "#0247b6",
 
     // Minimap
     "minimap.errorHighlight": "#ff1212b3",
@@ -142,14 +142,14 @@
     // Quick input
     "quickInput.background": "#01245c",
     "quickInput.foreground": "#ece4ca",
-    "quickInputList.focusBackground": "#814e36",
+    "quickInputList.focusBackground": "#0247b6", //0247b6
     "quickInputList.focusForeground": "#ffffff",
     "quickInputTitle.background": "#ffffff1b",
 
     // Scrollbar
     "scrollbarSlider.activeBackground": "#734530",
     "scrollbarSlider.background": "#90583c",
-    "scrollbarSlider.hoverBackground": "#814e36",
+    "scrollbarSlider.hoverBackground": "#0247b6",
 
     // Sidebar
     "sideBar.background": "#01245c",
