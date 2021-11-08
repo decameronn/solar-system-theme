@@ -100,13 +100,13 @@
     "gitDecoration.modifiedResourceForeground": "#ecd8c8",
 
     // List
-    "list.activeSelectionBackground": "#90573c",
+    "list.activeSelectionBackground": "#0247b6", //90573c
     "list.activeSelectionForeground": "#ffffff",
     "list.errorForeground": "#dcd7d3",
     "list.warningForeground": "#dcd7d3",
     "list.dropBackground": "#383b3d",
     "list.highlightForeground": "#0247b6",
-    "list.hoverBackground": "#90573c",
+    "list.hoverBackground": "#5d9bfd", //90573c
     "list.inactiveSelectionBackground": "#0247b6",
 
     // Minimap
@@ -147,8 +147,8 @@
     "quickInputTitle.background": "#ffffff1b",
 
     // Scrollbar
-    "scrollbarSlider.activeBackground": "#734530",
-    "scrollbarSlider.background": "#90583c",
+    "scrollbarSlider.activeBackground": "#5d9bfd", //734530
+    "scrollbarSlider.background": "#5d91ff", //90583c
     "scrollbarSlider.hoverBackground": "#0247b6",
 
     // Sidebar
