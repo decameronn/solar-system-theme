@@ -13,9 +13,9 @@
     "activityBarBadge.foreground": "#060606",
 
     // Badge and Banner
-    "badge.background": "#5d9bfd",
+    "badge.background": "#d7d6fe", //5d9bfd
     "badge.foreground": "#060606",
-    "banner.background": "#5d9bfd",
+    "banner.background": "#d7d6fe", //5d9bfd
     "banner.foreground": "#060606",
 
     // Breadcrumb
@@ -26,7 +26,7 @@
     "breadcrumbPicker.background": "#5d9bfd",
 
     // Button
-    "button.background": "#5d9bfd",
+    "button.background": "#d7d6fe", //d9bfd
     "button.foreground": "#060606",
 
     // Debugger
@@ -57,7 +57,7 @@
     "editorGroup.dropBackground": "#53595d80",
     "editorGroupHeader.noTabsBackground": "#01245c",
     "editorGroupHeader.tabsBackground": "#01245c",
-    "editorHoverWidget.background": "#482b1e",
+    "editorHoverWidget.background": "#01245c",  // 482b1e extensions hover
     "editorHoverWidget.border": "#454545",
     "editorHoverWidget.foreground": "#ece4ca",
     "editorHoverWidget.statusBarBackground": "#2c2c2d",
@@ -124,12 +124,12 @@
     // Panel - terminal
     "panelTitle.activeBorder": "#ece4ca",
     "panelTitle.activeForeground": "#ece4ca",
-    "panelTitle.inactiveForeground": "#d18616",
+    "panelTitle.inactiveForeground": "#5d9bfd",  //d18616
 
     // Peek View
     "peekView.border": "#dcd7d3",
     "peekViewEditor.background": "#0d0d0d",
-    "peekViewEditor.matchHighlightBackground": "#ff8f0099",
+    "peekViewEditor.matchHighlightBackground": "#5d9bfd99", /ff8f0099
     "peekViewEditorGutter.background": "#0d0d0d",
     "peekViewResult.background": "#5d9bfd",
     "peekViewResult.matchHighlightBackground": "#ea5c004d",
