@@ -124,7 +124,7 @@
     // Panel - terminal
     "panelTitle.activeBorder": "#ece4ca",
     "panelTitle.activeForeground": "#ece4ca",
-    "panelTitle.inactiveForeground": "#d18616",
+    "panelTitle.inactiveForeground": "#5d9bfd",  //d18616
 
     // Peek View
     "peekView.border": "#dcd7d3",
