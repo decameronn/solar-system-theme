@@ -9,7 +9,7 @@
     "activityBar.dropBorder": "#ece4ca",
     "activityBar.foreground": "#9ac0fe",  //d97f62
     "activityBar.inactiveForeground": "#5d9bfd",
-    "activityBarBadge.background": "#5d9bfd",
+    "activityBarBadge.background": "#d7d6fe", //5d9bfd
     "activityBarBadge.foreground": "#060606",
 
     // Badge and Banner
