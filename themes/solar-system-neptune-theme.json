@@ -26,7 +26,7 @@
     "breadcrumbPicker.background": "#5d9bfd",
 
     // Button
-    "button.background": "#d7d6fe", //d9bfd
+    "button.background": "#d7d6fe", //5d9bfd
     "button.foreground": "#060606",
 
     // Debugger
@@ -71,7 +71,7 @@
     "editorMarkerNavigationInfo.background": "#75beff",
     "editorMarkerNavigationWarning.background": "#bea11f",
     "editorWhitespace.foreground": "#e3e4e229",
-    "editorWidget.background": "#5d9bfd",
+    "editorWidget.background": "#3582fd", //5d9bfd
     "editorWidget.border": "#454545",
     "editorWidget.foreground": "#cccccc",
 
@@ -129,9 +129,9 @@
     // Peek View
     "peekView.border": "#dcd7d3",
     "peekViewEditor.background": "#0d0d0d",
-    "peekViewEditor.matchHighlightBackground": "#5d9bfd99", /ff8f0099
+    "peekViewEditor.matchHighlightBackground": "#5d9bfd99", //ff8f0099
     "peekViewEditorGutter.background": "#0d0d0d",
-    "peekViewResult.background": "#5d9bfd",
+    "peekViewResult.background": "#3582fd", //5d9bfd
     "peekViewResult.matchHighlightBackground": "#ea5c004d",
     "peekViewTitle.background": "#1e1e1e",
 
