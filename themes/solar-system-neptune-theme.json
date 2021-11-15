@@ -28,6 +28,7 @@
     // Button
     "button.background": "#d7d6fe", //5d9bfd
     "button.foreground": "#060606",
+    "button.hoverBackground": "#d7d6fe99",
 
     // Debugger
     "debugExceptionWidget.background": "#420b0d",
