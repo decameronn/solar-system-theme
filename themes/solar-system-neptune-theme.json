@@ -28,6 +28,7 @@
     // Button
     "button.background": "#d7d6fe", //5d9bfd
     "button.foreground": "#060606",
+    "button.hoverBackground": "#d7d6fe99",
 
     // Debugger
     "debugExceptionWidget.background": "#420b0d",
@@ -106,7 +107,7 @@
     "list.warningForeground": "#dcd7d3",
     "list.dropBackground": "#383b3d",
     "list.highlightForeground": "#0247b6",
-    "list.hoverBackground": "#5d9bfd", //90573c
+    "list.hoverBackground": "#0247b650", //90573c 5d9bfd
     "list.inactiveSelectionBackground": "#0247b6",
 
     // Minimap
