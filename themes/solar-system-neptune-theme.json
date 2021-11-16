@@ -148,9 +148,9 @@
     "quickInputTitle.background": "#ffffff1b",
 
     // Scrollbar
-    "scrollbarSlider.activeBackground": "#5d9bfd", //734530
-    "scrollbarSlider.background": "#5d91ff", //90583c
-    "scrollbarSlider.hoverBackground": "#0247b6",
+    "scrollbarSlider.activeBackground": "#0247b6", //734530
+    "scrollbarSlider.background": "#0247b6", //90583c
+    "scrollbarSlider.hoverBackground": "#5d9bfd",
 
     // Sidebar
     "sideBar.background": "#01245c",
