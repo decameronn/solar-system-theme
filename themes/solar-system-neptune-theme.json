@@ -199,7 +199,7 @@
       // Comment
       "scope": "comment",
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#dbd6f6"
       }
     },
     {
@@ -209,7 +209,7 @@
         "comment.block.documentation"
       ],
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#c4bcf0"
       }
     },
     {
