@@ -247,21 +247,21 @@
       // Keywords
       "scope": "keyword",
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#c9a5df"
       }
     },
     {
       // Storage
       "scope": "storage",
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#d2b4e4"
       }
     },
     {
       // Storage type 
       "scope": "storage.type",
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#d2b4e4"
       }
     },
     {
@@ -273,14 +273,14 @@
         "entity.name.scope-resolution"
       ],
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#ede1f4"
       }
     },
     {
       // Inherited class
       "scope": "entity.other.inherited-class",
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#ede1f4"
       }
     },
     {
