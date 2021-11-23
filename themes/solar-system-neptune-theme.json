@@ -301,7 +301,7 @@
       // Tag name
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#d2b4e4" //fefdf8
+        "foreground": "#ede1f4" //fefdf8 d2b4e4
       }
     },
     {
