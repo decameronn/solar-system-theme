@@ -301,14 +301,14 @@
       // Tag name
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#d2b4e4" //fefdf8
       }
     },
     {
       // Tag attribute
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#aecdff" //fefdf8
       }
     },
     {
