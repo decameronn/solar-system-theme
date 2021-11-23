@@ -287,14 +287,14 @@
       // Function
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#944cbd"
+        "foreground": "#72a7fe" //944cbd
       }
     },
     {
       // Function parameter (not argument)
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#e4d2ee"
+        "foreground": "#aecdff" //e4d2ee
       }
     },
     {
