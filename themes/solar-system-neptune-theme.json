@@ -216,7 +216,7 @@
       // String
       "scope": "string",
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#d3cdf4"
       }
     },
     {
@@ -391,14 +391,14 @@
       // Markup link
       "scope": "markup.underline.link",
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#ede1f4"
       }
     },
     {
       // Markup Quote
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#ede1f4"
       }
     },
     {
@@ -425,7 +425,7 @@
         "markup.heading.setext"
       ],
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#72a7fe"
       }
     }
   ]
