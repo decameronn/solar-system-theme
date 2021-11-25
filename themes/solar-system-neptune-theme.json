@@ -199,7 +199,7 @@
       // Comment
       "scope": "comment",
       "settings": {
-        "foreground": "#dbd6f6"
+        "foreground": "#ebf2ff" //dbd6f6
       }
     },
     {
@@ -209,7 +209,7 @@
         "comment.block.documentation"
       ],
       "settings": {
-        "foreground": "#c4bcf0"
+        "foreground": "#d6e4ff" //c4bcf0
       }
     },
     {
@@ -223,7 +223,7 @@
       // Numeric constant
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#d6e6ff" //fefdf8
       }
     },
     {
