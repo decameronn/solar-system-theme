@@ -199,7 +199,7 @@
       // Comment
       "scope": "comment",
       "settings": {
-        "foreground": "#dbd6f6"
+        "foreground": "#a2daf6" //dbd6f6 ebf2ff
       }
     },
     {
@@ -209,7 +209,7 @@
         "comment.block.documentation"
       ],
       "settings": {
-        "foreground": "#c4bcf0"
+        "foreground": "#90d3f4" //c4bcf0 d6e4ff
       }
     },
     {
@@ -223,7 +223,7 @@
       // Numeric constant
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#d6e6ff" //fefdf8
       }
     },
     {
@@ -346,7 +346,7 @@
       // Invalid
       "scope": "invalid",
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#ede1f4"
       }
     },
     {
@@ -363,7 +363,7 @@
         "meta.diff.header"
       ],
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#0f6a96"
       }
     },
     {
@@ -384,7 +384,7 @@
       // Markup inserted
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#0f6a96"
       }
     },
     {
@@ -415,7 +415,7 @@
       // Markup Inline
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#fefdf8"
+        "foreground": "#508af6" //fefdf8
       }
     },
     {
