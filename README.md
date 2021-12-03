@@ -128,7 +128,7 @@ Please note: The theme collection will be updated and you will have to reload VS
     </tr>
     <tr colspan=4>
         <td>Uranus</td><td>Released</td>
-        <td>Neptune</td><td>In Work</td>
+        <td>Neptune</td><td>Released</td>
     </tr>
 </table>  
 
@@ -167,3 +167,5 @@ You can read more about the planetary system we all live in on [Wikipedia](https
 ![Saturn](/images/samples/saturn.png)
 ### Uranus 
 ![Uranus](/images/samples/uranus.png)
+### Neptune 
+![Neptune](/images/samples/neptune.png)
