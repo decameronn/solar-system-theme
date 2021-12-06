@@ -2,6 +2,11 @@
 
 This file document the most important changes in the [project releases](https://github.com/decameronn/solar-system-theme/releases).
 
+## 2.8.0
+1. We are happy to announce the release of Neptune Theme - Enjoy!  
+3. Fix small inconsistencies in all italic themes
+4. Add tab file tabs border for clarity in certain themes
+
 ## 2.7.0
 1. We are happy to announce the release of Mars Theme - Enjoy!  
 3. Fix incorrect italic type in Earth theme

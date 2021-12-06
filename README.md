@@ -7,7 +7,7 @@
 
 # Solar System Theme
 📌 This is Work In Progress! We would love to hear your [feedback](https://github.com/decameronn/solar-system-theme/issues)! 📌  
-📌 **NEWS:** __Mars Theme Released!__ Please see Release Status down below. 📌  
+📌 **NEWS:** __Neptune Theme Released!__ Please see Release Status down below. 📌  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/decameron.solar-system-theme)
