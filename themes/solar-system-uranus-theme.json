@@ -64,7 +64,7 @@
 		"editorIndentGuide.activeBackground": "#707070",
 		"editorIndentGuide.background": "#404040",
 		"editorLineNumber.activeForeground": "#C5CBFF",
-		"editorLineNumber.foreground": "#757999", //494239
+		"editorLineNumber.foreground": "#757999",
 		"editorLink.activeForeground": "#4e94ce",
 		"editorMarkerNavigation.background": "#2d2d30",
 		"editorMarkerNavigationError.background": "#f48771",
@@ -149,7 +149,7 @@
 		"sideBar.background": "#22282b",
 		"sideBar.border": "#373F42",
 		"sideBar.dropBackground": "#53595d80",
-		"sideBar.foreground": "#c8dbe4", //A2C1D1
+		"sideBar.foreground": "#c8dbe4",
 		"sideBarSectionHeader.background": "#00000000",
 		"sideBarSectionHeader.border": "#cccccc33",
 		"sideBarSectionHeader.foreground": "#C5CBFF",
