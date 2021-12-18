@@ -2,6 +2,10 @@
 
 This file document the most important changes in the [project releases](https://github.com/decameronn/solar-system-theme/releases).
 
+## 2.8.1
+1. Fix incorrect color palette in Uranus theme
+2. Add border to title panel and tab panel (better contrast)
+
 ## 2.8.0
 1. We are happy to announce the release of Neptune Theme - Enjoy!  
 3. Fix small inconsistencies in all italic themes
