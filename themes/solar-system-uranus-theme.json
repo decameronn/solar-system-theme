@@ -183,7 +183,7 @@
 		"titleBar.activeForeground": "#cccccc",
 		"titleBar.inactiveBackground": "#22282b99",
 		"titleBar.inactiveForeground": "#cccccc99",
-		// "titleBar.border": "#ffffff80"
+		"titleBar.border": "#7a7a7a80"
 	},
 	"tokenColors": [
 		{
