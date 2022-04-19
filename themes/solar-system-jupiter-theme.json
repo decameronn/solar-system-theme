@@ -176,6 +176,7 @@
 		"tab.activeForeground": "#ffffff",
 		"tab.inactiveBackground": "#1c2029",
 		"tab.inactiveForeground": "#ffffff80",
+		"tab.border": "#454545",
 
 		// TODO: Add Terminal color palette
 
@@ -183,7 +184,8 @@
 		"titleBar.activeBackground": "#1d3041",
 		"titleBar.activeForeground": "#cccccc",
 		"titleBar.inactiveBackground": "#1d304199",
-		"titleBar.inactiveForeground": "#cccccc99"
+		"titleBar.inactiveForeground": "#cccccc99",
+		"titleBar.border": "#454545"
 	},
 	"tokenColors":[
 		{
