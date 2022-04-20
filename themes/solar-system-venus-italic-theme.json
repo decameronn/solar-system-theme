@@ -181,6 +181,7 @@
     "tab.activeForeground": "#ffffff",
     "tab.inactiveBackground": "#171611",
     "tab.inactiveForeground": "#ffffff80",
+    "tab.border": "#4e412e",
 
     // Terminal
     "terminal.foreground": "#dac7aa",
@@ -189,7 +190,8 @@
     "titleBar.activeBackground": "#23221a",
     "titleBar.activeForeground": "#cccccc",
     "titleBar.inactiveBackground": "#23221a99",
-    "titleBar.inactiveForeground": "#cccccc99"
+    "titleBar.inactiveForeground": "#cccccc99",
+    "titleBar.border": "#4e412e"
   },
   "tokenColors": [
     {
