@@ -2,6 +2,10 @@
 
 This file document the most important changes in the [project releases](https://github.com/decameronn/solar-system-theme/releases).
 
+# 2.8.2
+1. Make border on Titlebar and Tab bar coherent on all sub-themes.
+2. Minor fixes
+
 ## 2.8.1
 1. Fix incorrect color palette in Uranus theme
 2. Add border to title panel and tab panel (better contrast)
