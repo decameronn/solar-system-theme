@@ -7,7 +7,7 @@
 
 # Solar System Theme
 📌 This is Work In Progress! We would love to hear your [feedback](https://github.com/decameronn/solar-system-theme/issues)! 📌  
-📌 **NEWS:** All Planets are Released!__. 📌  
+📌 **NEWS:** All Planets are Released! 📌  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/decameron.solar-system-theme)
@@ -158,11 +158,11 @@ You can read more about the planetary system we all live in on [Wikipedia](https
 ### Venus
 ![Venus](/images/samples/venus.png)
 ### Earth
-![Earth](/images/samples/earth.png)
+[Earth](https://drive.google.com/file/d/1gWD6LiwuEgPLmH33ImCqK4lsn3VOsptf/view?usp=sharing)
 ### Mars
-![Mars](/images/samples/mars.png)
+[Mars](https://drive.google.com/file/d/1WSpM98cmCLryFMYM7XIYwkbMLmbeDPkr/view?usp=sharing)
 ### Jupiter 
-![Jupiter](/images/samples/jupiter.png)
+[Jupiter](https://drive.google.com/file/d/1RMLjqvep1tjhFKvQMtVDMfBWU5e0uu-i/view?usp=sharing)
 ### Saturn 
 ![Saturn](/images/samples/saturn.png)
 ### Uranus 
