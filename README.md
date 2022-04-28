@@ -27,16 +27,10 @@
             We hope you'll enjoy it (as much as we do!). </a>
         </td>
     </tr>
-    <tr>
-        <td>
-            This project is being developed and maintained by <a href='https://github.com/decameronn' target="_blank">Decameron</a>.
-        </td>
-    </tr>
 </table>
-</div>
-
 <br/>
 <br/> 
+</div>
 
 <div align="center">
 
@@ -58,19 +52,14 @@
 4. Click on **Reload** to reload VS Code  
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Solar System** > Select the desired theme  
 6. Please [rate it](https://marketplace.visualstudio.com/items?itemName=decameron.solar-system-theme) if you enjoy it!  
-<br/>
 
 <div align="center">
 
 ## Recommended custom settings
-
 </div>
-<br/>
 
 We recommend the following settings for the best experience, especially if you have [Cascadia Code](https://github.com/microsoft/cascadia-code) font installed.  
   
-<br/>
-
 ```json
 "workbench.iconTheme": "vscode-icons",
 "workbench.productIconTheme": "fluent-icons",
@@ -82,52 +71,14 @@ We recommend the following settings for the best experience, especially if you h
 "terminal.integrated.cursorStyle": "line",
 "files.autoSave": "afterDelay"
 ```
-<br/>
-
-<div align="center">
-
-## Release schedule
-
-</div>
-
-📌 **NEWS:** All Planets are Released! We would love to hear your [feedback](https://github.com/decameronnissues)! 📌  
-
-<div>
-
-<table width='65%' align='center'>
-    <th colspan=4>Release Status</th>
-    <tr colspan=4>
-        <td>Mercury</td><td>Released</td>
-        <td>Venus</td><td>Released</td>
-    </tr>
-    <tr colspan=4>
-        <td>Earth</td><td>Released</td>
-        <td>Mars</td><td>Released</td>
-    </tr>
-    <tr colspan=4>
-        <td>Jupiter</td><td>Released</td>
-        <td>Saturn</td><td>Released</td>
-    </tr>
-    <tr colspan=4>
-        <td>Uranus</td><td>Released</td>
-        <td>Neptune</td><td>Released</td>
-    </tr>
-</table>  
-
-</div>
-<br/>
-
-<div>
-  
-You can read more about the planetary system we all live in on [Wikipedia](https://en.wikipedia.org/wiki/Solar_System)  
-
-</div>
-<br/>
 
 <div align="center">
 
 ## Look & Feel
 
-[Mercury](images/samples/mercury.png) | [Venus](images/samples/venus.png) | [Earth](images/samples/earth.png) | [Mars](images/samples/mars.png) | [Jupiter](images/samples/jupiter.png) | [Saturn](images/samples/saturn.png) | [Uranus](images/samples/uranus.png) | [Neptune](images/samples/neptune.png)
-
+[Mercury](images/samples/mercury.png) | [Venus](images/samples/venus.png) | [Earth](images/samples/earth.png) | [Mars](images/samples/mars.png) | [Jupiter](images/samples/jupiter.png) | [Saturn](images/samples/saturn.png) | [Uranus](images/samples/uranus.png) | [Neptune](images/samples/neptune.png)  
+  
+We would love to hear your [feedback](https://github.com/decameronnissues)! 📌  
+You can read more about the planetary system on [Wikipedia](https://en.wikipedia.org/wiki/Solar_System).  
+This project is maintained by <a href='https://github.com/decameronn' target="_blank">Decameron</a>.
 </div>
