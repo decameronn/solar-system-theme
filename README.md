@@ -6,9 +6,6 @@
 <div align="center">
 
 # Solar System Theme
-📌 This is Work In Progress! We would love to hear your [feedback](https://github.com/decameronn/solar-system-theme/issues)! 📌  
-📌 **NEWS:** All Planets are Released! 📌  
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/decameron.solar-system-theme)
 ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/decameron.solar-system-theme)
@@ -17,7 +14,6 @@
 <br/>
 
 <div>
-
 <table width='100%' align="left">
     <tr>
         <td align="center">
@@ -40,11 +36,7 @@
 </div>
 
 <br/>
-<br/>
-
-<!-- <div align="center">
-    <a align="center" href="https://github.com/decameronn/solar-system-theme"><img align="center" src="images/assets/install.jpg" /></a>
-</div> -->
+<br/> 
 
 <div align="center">
 
@@ -98,12 +90,12 @@ We recommend the following settings for the best experience, especially if you h
 
 </div>
 
-We aim to release one sub-theme, once every two-weeks.  
+📌 **NEWS:** All Planets are Released! We would love to hear your [feedback](https://github.com/decameronn/solar-system-theme/issues)! 📌  
 Please note: The theme collection will be updated and you will have to reload VS Code before chosing the newest theme.
 
 <div>
 
-<table width='65%' align='left'>
+<table width='65%' align='center'>
     <th colspan=4>Release Status</th>
     <tr colspan=4>
         <td>Mercury</td><td>Released</td>
@@ -126,26 +118,17 @@ Please note: The theme collection will be updated and you will have to reload VS
 </div>
 <br/>
 
-<!-- <div>
+<div>
   
 You can read more about the planetary system we all live in on [Wikipedia](https://en.wikipedia.org/wiki/Solar_System)  
 
-</div> -->
-
-You can read more about the planetary system we all live in on [Wikipedia](https://en.wikipedia.org/wiki/Solar_System)  
-
+</div>
 <br/>
 
-<!-- <div align="center">
-    <a align="center" href="https://github.com/decameronn/solar-system-theme"><img align="center" src="images/assets/look.jpg" /></a>
-</div> -->
-
-<!-- <div align="center">
-
-## Look & Feel
-
-</div> -->
+<div align="center">
 
 ## Look & Feel
 
 [Mercury](https://drive.google.com/file/d/17zU6OweqLrHGlX7aJ00Jn99xYdBix2to/view?usp=sharing) | [Venus](https://drive.google.com/file/d/1DB4DafXB0WIhUS6O0yZL9fHDsJEFGjGT/view?usp=sharing) | [Earth](https://drive.google.com/file/d/1gWD6LiwuEgPLmH33ImCqK4lsn3VOsptf/view?usp=sharing) | [Mars](https://drive.google.com/file/d/1WSpM98cmCLryFMYM7XIYwkbMLmbeDPkr/view?usp=sharing) | [Jupiter](https://drive.google.com/file/d/1RMLjqvep1tjhFKvQMtVDMfBWU5e0uu-i/view?usp=sharing) | [Saturn](https://drive.google.com/file/d/1_z9QL2xIVwX8Ie0piJKSTPeD2BE4zyOE/view?usp=sharing) | [Uranus](https://drive.google.com/file/d/1XbpLYKcuZJJjzXkTIkNBGUGOUp2AtW0O/view?usp=sharing) | [Neptune](https://drive.google.com/file/d/1lJ05NDJtgfpQI0pLoD3hq6XzfqjEp3vS/view?usp=sharing)
+
+</div>
