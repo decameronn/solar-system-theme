@@ -42,14 +42,13 @@
 <br/>
 <br/>
 
-<div align="center">
+<!-- <div align="center">
     <a align="center" href="https://github.com/decameronn/solar-system-theme"><img align="center" src="images/assets/install.jpg" /></a>
-</div>
+</div> -->
 
 <div align="center">
 
 ## Quick & Alternate Install
-
 </div>
 
 ### Quick Install
@@ -67,11 +66,7 @@
 4. Click on **Reload** to reload VS Code  
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Solar System** > Select the desired theme  
 6. Please [rate it](https://marketplace.visualstudio.com/items?itemName=decameron.solar-system-theme) if you enjoy it!  
-
 <br/>
-<div align="center">
-    <a align="center" href="https://github.com/decameronn/solar-system-theme"><img align="center" src="images/assets/settings.jpg" /></a>
-</div>
 
 <div align="center">
 
@@ -95,11 +90,7 @@ We recommend the following settings for the best experience, especially if you h
 "terminal.integrated.cursorStyle": "line",
 "files.autoSave": "afterDelay"
 ```
-
 <br/>
-<div align="center">
-    <a align="center" href="https://github.com/decameronn/solar-system-theme"><img align="center" src="images/assets/release.jpg" /></a>
-</div>
 
 <div align="center">
 
@@ -112,7 +103,7 @@ Please note: The theme collection will be updated and you will have to reload VS
 
 <div>
 
-<table width='65%' align='center'>
+<table width='65%' align='left'>
     <th colspan=4>Release Status</th>
     <tr colspan=4>
         <td>Mercury</td><td>Released</td>
@@ -135,22 +126,26 @@ Please note: The theme collection will be updated and you will have to reload VS
 </div>
 <br/>
 
-<div>
+<!-- <div>
+  
+You can read more about the planetary system we all live in on [Wikipedia](https://en.wikipedia.org/wiki/Solar_System)  
+
+</div> -->
 
 You can read more about the planetary system we all live in on [Wikipedia](https://en.wikipedia.org/wiki/Solar_System)  
 
-</div>
-
 <br/>
 
-<div align="center">
+<!-- <div align="center">
     <a align="center" href="https://github.com/decameronn/solar-system-theme"><img align="center" src="images/assets/look.jpg" /></a>
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
 
 ## Look & Feel
 
-</div>
+</div> -->
+
+## Look & Feel
 
 [Mercury](https://drive.google.com/file/d/17zU6OweqLrHGlX7aJ00Jn99xYdBix2to/view?usp=sharing) | [Venus](https://drive.google.com/file/d/1DB4DafXB0WIhUS6O0yZL9fHDsJEFGjGT/view?usp=sharing) | [Earth](https://drive.google.com/file/d/1gWD6LiwuEgPLmH33ImCqK4lsn3VOsptf/view?usp=sharing) | [Mars](https://drive.google.com/file/d/1WSpM98cmCLryFMYM7XIYwkbMLmbeDPkr/view?usp=sharing) | [Jupiter](https://drive.google.com/file/d/1RMLjqvep1tjhFKvQMtVDMfBWU5e0uu-i/view?usp=sharing) | [Saturn](https://drive.google.com/file/d/1_z9QL2xIVwX8Ie0piJKSTPeD2BE4zyOE/view?usp=sharing) | [Uranus](https://drive.google.com/file/d/1XbpLYKcuZJJjzXkTIkNBGUGOUp2AtW0O/view?usp=sharing) | [Neptune](https://drive.google.com/file/d/1lJ05NDJtgfpQI0pLoD3hq6XzfqjEp3vS/view?usp=sharing)
