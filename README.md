@@ -90,7 +90,7 @@ We recommend the following settings for the best experience, especially if you h
 
 </div>
 
-📌 **NEWS:** All Planets are Released! We would love to hear your [feedback](https://github.com/decameronn/solar-system-theme/issues)! 📌  
+📌 **NEWS:** All Planets are Released! We would love to hear your [feedback](https://github.com/decameronnissues)! 📌  
 
 <div>
 
@@ -128,6 +128,6 @@ You can read more about the planetary system we all live in on [Wikipedia](https
 
 ## Look & Feel
 
-[Mercury](/solar-system-theme/images/samples/mercury.png) | [Venus](/solar-system-theme/images/samples/venus.png) | [Earth](/solar-system-theme/images/samples/earth.png) | [Mars](/solar-system-theme/images/samples/mars.png) | [Jupiter](/solar-system-theme/images/samples/jupiter.png) | [Saturn](/solar-system-theme/images/samples/saturn.png) | [Uranus](/solar-system-theme/images/samples/uranus.png) | [Neptune](/solar-system-theme/images/samples/neptune.png)
+[Mercury](images/samples/mercury.png) | [Venus](images/samples/venus.png) | [Earth](images/samples/earth.png) | [Mars](images/samples/mars.png) | [Jupiter](images/samples/jupiter.png) | [Saturn](images/samples/saturn.png) | [Uranus](images/samples/uranus.png) | [Neptune](images/samples/neptune.png)
 
 </div>
