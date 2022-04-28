@@ -91,7 +91,6 @@ We recommend the following settings for the best experience, especially if you h
 </div>
 
 📌 **NEWS:** All Planets are Released! We would love to hear your [feedback](https://github.com/decameronn/solar-system-theme/issues)! 📌  
-Please note: The theme collection will be updated and you will have to reload VS Code before chosing the newest theme.
 
 <div>
 
@@ -129,6 +128,6 @@ You can read more about the planetary system we all live in on [Wikipedia](https
 
 ## Look & Feel
 
-[Mercury](https://drive.google.com/file/d/17zU6OweqLrHGlX7aJ00Jn99xYdBix2to/view?usp=sharing) | [Venus](https://drive.google.com/file/d/1DB4DafXB0WIhUS6O0yZL9fHDsJEFGjGT/view?usp=sharing) | [Earth](https://drive.google.com/file/d/1gWD6LiwuEgPLmH33ImCqK4lsn3VOsptf/view?usp=sharing) | [Mars](https://drive.google.com/file/d/1WSpM98cmCLryFMYM7XIYwkbMLmbeDPkr/view?usp=sharing) | [Jupiter](https://drive.google.com/file/d/1RMLjqvep1tjhFKvQMtVDMfBWU5e0uu-i/view?usp=sharing) | [Saturn](https://drive.google.com/file/d/1_z9QL2xIVwX8Ie0piJKSTPeD2BE4zyOE/view?usp=sharing) | [Uranus](https://drive.google.com/file/d/1XbpLYKcuZJJjzXkTIkNBGUGOUp2AtW0O/view?usp=sharing) | [Neptune](https://drive.google.com/file/d/1lJ05NDJtgfpQI0pLoD3hq6XzfqjEp3vS/view?usp=sharing)
+[Mercury](/solar-system-theme/images/samples/mercury.png) | [Venus](/solar-system-theme/images/samples/venus.png) | [Earth](/solar-system-theme/images/samples/earth.png) | [Mars](/solar-system-theme/images/samples/mars.png) | [Jupiter](/solar-system-theme/images/samples/jupiter.png) | [Saturn](/solar-system-theme/images/samples/saturn.png) | [Uranus](/solar-system-theme/images/samples/uranus.png) | [Neptune](/solar-system-theme/images/samples/neptune.png)
 
 </div>
