@@ -153,19 +153,4 @@ You can read more about the planetary system we all live in on [Wikipedia](https
 
 </div>
 
-### Mercury
-![Mercury](/images/samples/mercury.png)
-### Venus
-![Venus](/images/samples/venus.png)
-### Earth
-[Earth](https://drive.google.com/file/d/1gWD6LiwuEgPLmH33ImCqK4lsn3VOsptf/view?usp=sharing)
-### Mars
-[Mars](https://drive.google.com/file/d/1WSpM98cmCLryFMYM7XIYwkbMLmbeDPkr/view?usp=sharing)
-### Jupiter 
-[Jupiter](https://drive.google.com/file/d/1RMLjqvep1tjhFKvQMtVDMfBWU5e0uu-i/view?usp=sharing)
-### Saturn 
-![Saturn](/images/samples/saturn.png)
-### Uranus 
-![Uranus](/images/samples/uranus.png)
-### Neptune 
-![Neptune](/images/samples/neptune.png)
+[Mercury](https://drive.google.com/file/d/17zU6OweqLrHGlX7aJ00Jn99xYdBix2to/view?usp=sharing) | [Venus](https://drive.google.com/file/d/1DB4DafXB0WIhUS6O0yZL9fHDsJEFGjGT/view?usp=sharing) | [Earth](https://drive.google.com/file/d/1gWD6LiwuEgPLmH33ImCqK4lsn3VOsptf/view?usp=sharing) | [Mars](https://drive.google.com/file/d/1WSpM98cmCLryFMYM7XIYwkbMLmbeDPkr/view?usp=sharing) | [Jupiter](https://drive.google.com/file/d/1RMLjqvep1tjhFKvQMtVDMfBWU5e0uu-i/view?usp=sharing) | [Saturn](https://drive.google.com/file/d/1_z9QL2xIVwX8Ie0piJKSTPeD2BE4zyOE/view?usp=sharing) | [Uranus](https://drive.google.com/file/d/1XbpLYKcuZJJjzXkTIkNBGUGOUp2AtW0O/view?usp=sharing) | [Neptune](https://drive.google.com/file/d/1lJ05NDJtgfpQI0pLoD3hq6XzfqjEp3vS/view?usp=sharing)
