@@ -32,7 +32,7 @@
 </div> -->
 
 | ✨ The marvelous Solar System imagined for VS Code - Choose your planet! ✨ |  
--------------------------------------------------------------------------------  
+| ---------------------------------------------------------------------------- |
 | A professional, hand-crafted theme for Visual Studio Code. Every planet of the Solar System has the color hand-picked, based on high quality, real life images, to reflect the color palette as accurately as possible. Great attention is paid to every detail for the most authentic experience. |  
 Whenever the case, tiny artistic brushes are applied for a more pleasant experience and better readability. |  
 | We hope you'll enjoy it (as much as we do!). |
