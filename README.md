@@ -1,7 +1,7 @@
 <div align="center">
     <a align="center" href="https://marketplace.visualstudio.com/items?itemName=decameron.solar-system-theme"><img align="center" src="images/assets/solar-system.jpg" /></a>
 </div>
-<br/>
+<!-- <br/> -->
 
 <div align="center">
 
@@ -9,11 +9,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/decameron.solar-system-theme)
 ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/decameron.solar-system-theme)
-  
 </div>
-<br/>
+<!-- <br/> -->
 
-<div>
+<!-- <div>
 <table width='100%' align="left">
     <tr>
         <td align="center">
@@ -30,7 +29,13 @@
 </table>
 <br/>
 <br/> 
-</div>
+</div> -->
+
+| ✨ The marvelous Solar System imagined for VS Code - Choose your planet! ✨ |  
+-------------------------------------------------------------------------------  
+| A professional, hand-crafted theme for Visual Studio Code. Every planet of the Solar System has the color hand-picked, based on high quality, real life images, to reflect the color palette as accurately as possible. Great attention is paid to every detail for the most authentic experience. |  
+Whenever the case, tiny artistic brushes are applied for a more pleasant experience and better readability. |  
+| We hope you'll enjoy it (as much as we do!). |
 
 <div align="center">
 
@@ -75,7 +80,6 @@ We recommend the following settings for the best experience, especially if you h
 <div align="center">
 
 ## Look & Feel
-
 [Mercury](images/samples/mercury.png) | [Venus](images/samples/venus.png) | [Earth](images/samples/earth.png) | [Mars](images/samples/mars.png) | [Jupiter](images/samples/jupiter.png) | [Saturn](images/samples/saturn.png) | [Uranus](images/samples/uranus.png) | [Neptune](images/samples/neptune.png)  
   
 We would love to hear your [feedback](https://github.com/decameronnissues)! 📌  
