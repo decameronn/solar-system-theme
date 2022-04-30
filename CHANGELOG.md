@@ -2,12 +2,16 @@
 
 This file document the most important changes in the [project releases](https://github.com/decameronn/solar-system-theme/releases).
 
+# 2.8.4
+1. Remove redundant images to reduce repo download size
+2. Refactor README content for better clarity
+
 # 2.8.3
 1. Simplify README structure for clarity
 2. Update README content to reflect current theme status
 
 # 2.8.2
-1. Make border on Titlebar and Tab bar coherent on all sub-themes.
+1. Make border on Titlebar and Tab bar coherent on all sub-themes
 2. Minor fixes
 
 ## 2.8.1
