@@ -1,7 +1,6 @@
 <div align="center">
     <a align="center" href="https://marketplace.visualstudio.com/items?itemName=decameron.solar-system-theme"><img align="center" src="images/assets/solar-system.jpg" /></a>
 </div>
-<!-- <br/> -->
 
 <div align="center">
 
@@ -10,30 +9,10 @@
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/decameron.solar-system-theme)
 ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/decameron.solar-system-theme)
 </div>
-<!-- <br/> -->
 
-<!-- <div>
-<table width='100%' align="left">
-    <tr>
-        <td align="center">
-            <strong><code>✨ The marvelous Solar System imagined for VS Code - Choose your planet! ✨</code></strong>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            A professional, hand-crafted theme for Visual Studio Code. Every planet of the Solar System has the color hand-picked, based on high quality, real life images, to reflect the color palette as accurately as possible. Great attention is paid to every detail for the most authentic experience.<br/> 
-            Whenever the case, tiny artistic brushes are applied for a more pleasant experience and better readability.<br/>
-            We hope you'll enjoy it (as much as we do!). </a>
-        </td>
-    </tr>
-</table>
-<br/>
-<br/> 
-</div> -->
-
-| ✨ The marvelous Solar System imagined for VS Code - Choose your planet! ✨ |  
+| ✨ ``The marvelous Solar System imagined for VS Code - Choose your planet!`` ✨ |  
 | ---------------------------------------------------------------------------- |
-| A professional, hand-crafted theme for Visual Studio Code. Every planet of the Solar System has the color hand-picked, based on high quality, real life images, to reflect the color palette as accurately as possible. Great attention is paid to every detail for the most authentic experience. |  
+| A professional, hand-crafted theme for Visual Studio Code. Every planet of the Solar System has the color hand-picked, based on high quality, real life images, to reflect the color palette as accurately as possible. Great attention is paid to every detail for the most authentic experience.  
 Whenever the case, tiny artistic brushes are applied for a more pleasant experience and better readability. |  
 | We hope you'll enjoy it (as much as we do!). |
 
