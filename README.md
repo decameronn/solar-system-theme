@@ -61,7 +61,7 @@ We recommend the following settings for the best experience, especially if you h
 ## Look & Feel
 [Mercury](images/samples/mercury.png) | [Venus](images/samples/venus.png) | [Earth](images/samples/earth.png) | [Mars](images/samples/mars.png) | [Jupiter](images/samples/jupiter.png) | [Saturn](images/samples/saturn.png) | [Uranus](images/samples/uranus.png) | [Neptune](images/samples/neptune.png)  
   
-We would love to hear your [feedback](https://github.com/decameronnissues)! 📌  
+We would love to hear your [feedback](https://github.com/decameronnissues)!  
 You can read more about the planetary system on [Wikipedia](https://en.wikipedia.org/wiki/Solar_System).  
 This project is maintained by <a href='https://github.com/decameronn' target="_blank">Decameron</a>.
 </div>
