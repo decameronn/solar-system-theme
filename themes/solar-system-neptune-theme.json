@@ -75,6 +75,8 @@
     "editorWidget.background": "#3582fd", //5d9bfd
     "editorWidget.border": "#454545",
     "editorWidget.foreground": "#cccccc",
+    "editorSuggestWidget.focusHighlightForeground": "#6281db",
+    "editorSuggestWidget.highlightForeground": "#ffffff",
 
     // Extension Button
     "extensionButton.prominentBackground": "#49737a",
